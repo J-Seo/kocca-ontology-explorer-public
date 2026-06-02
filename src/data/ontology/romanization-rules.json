@@ -1,0 +1,367 @@
+[
+  {
+    "id": "ganada-romanization-00021",
+    "title": "된소리 로마자 표기",
+    "category": "romanization",
+    "subcategory": "로마자 표기 시 된소리 처리",
+    "rule_number": "",
+    "description": "안녕하십니까?\n말씀하신 것처럼 <로마자 표기법> 제3장의 제1항 [붙임]에서는 된소리되기를 표기에 반영하지 않는다고 하였습니다. 따라서 '있다'가 [읻따]로 발음되더라도 된소리를 표기에 반영하지 않고 'itda'로 적습니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=328459)",
+    "source_date": "2026. 3. 23.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "itda (O)",
+        "incorrect": "itta (X)",
+        "explanation": "로마자 표기 시 '있다'[읻따]를 itta가 아닌 itda로 표기하는 이유"
+      }
+    ],
+    "tags": [
+      "로마자",
+      "된소리",
+      "음운",
+      "표기법",
+      "규칙",
+      "표준어"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00157",
+    "title": "이름 영문명 표기 문의",
+    "category": "romanization",
+    "subcategory": "인명 로마자 표기",
+    "rule_number": "",
+    "description": "안녕하십니까?\n<국어의 로마자 표기법>의 따라 'Baek Ihyeon'으로 적고, 제3장 제4항에 따라 이름의 음절 사이에 붙임표를 쓰는 'Baek I-hyeon'도 허용합니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "high",
+    "source": "온라인가나다 (qna_seq=328312)",
+    "source_date": "2026. 3. 18.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "Baek Ihyeon (또는 Baek I-hyeon)",
+        "incorrect": "paik yihyun, paik ihyun, baek ihyun, baek ihyeon, yihyeon",
+        "explanation": "성명 '백이현'의 로마자 표기는 'Baek Ihyeon' 또는 'Baek I-hyeon'이 정확함"
+      }
+    ],
+    "tags": [
+      "로마자 표기",
+      "인명",
+      "여권 표기",
+      "성명 표기",
+      "국제 표준"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00181",
+    "title": "소수점 아래 숫자의 한글 표기(띄어쓰기)",
+    "category": "romanization",
+    "subcategory": "아라비아 숫자의 한글 표기",
+    "rule_number": "",
+    "description": "안녕하십니까?\n아라비아 숫자로 표기한 소수를 한글로 표기하는 방법에 대해서는 <어문 규범>에 규정된 바 없습니다. 따라서 온라인가나다의 답변 범위를 벗어난다는 점을 양해해 주시기 바랍니다. 문의해 주셨으나 도움을 드리지 못해 죄송합니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=328287)",
+    "source_date": "2026. 3. 17.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "삼 점 일 사 일 오 구 이",
+        "incorrect": "삼.일사일오구이",
+        "explanation": "아라비아 숫자 소수를 한글로 표기하는 공식 규정 없음"
+      }
+    ],
+    "tags": [
+      "숫자",
+      "소수점",
+      "한글 표기",
+      "표준 규정 부재"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00307",
+    "title": "트렌드와 트랜드 중 어떤 것이 옳은 단어인가요?",
+    "category": "romanization",
+    "subcategory": "외래어 표기법 준수 여부 판단",
+    "rule_number": "",
+    "description": "안녕하십니까?\n<우리말샘>과 <외래어 표기법>을 참고할 때, '트렌드'가 올바른 표기입니다. 'trend[trend]'에서 '[e]'는 <외래어 표기법>에 따라 '에'로 쓰기 때문입니다.\n고맙습니다.",
+    "difficulty": "beginner",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=328146)",
+    "source_date": "2026. 3. 12.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "'트렌드'가 맞다(예: 트렌드 분석)",
+        "incorrect": "'트랜드'라고 적는 표현(오표기 사례)",
+        "explanation": "trend의 한글 표기 시 트랜드 대신 트렌드를 선택해야 함을 설명한 질의응답"
+      }
+    ],
+    "tags": [
+      "외래어",
+      "발음 표기",
+      "표준 표기"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00391",
+    "title": "'Zugzwang' 외래어 표기",
+    "category": "romanization",
+    "subcategory": "외래어 표기법 음성기호 대조 적용 사례",
+    "rule_number": "",
+    "description": "안녕하십니까?\n'Zugzwang'의 외래어 표기가 확정되지 않아 단정적으로 말씀드릴 수는 없습니다만, <외래어 표기법>의 '국제 음성 기호와 한글 대조표'에 따르면 다음과 같이 적을 수 있습니다. 먼저 모음 앞의 [ts]는 'ㅊ'로, [u]는 '우'로 적습니다. 자음 앞의 [k]는 'ㄱ' 또는 '크'로 적을 수 있는데, [k] 앞의 모음이 장모음이므로 '크'로 적습니다. 자음 앞의 [ts]는 '츠'로, 모음 앞의 [v]는 'ㅂ'로, [a]는 '아'로, 어말의 [ŋ]은 'ㅇ'으로 적습니다. 따라서 'Zugzwang'은 '추크츠방'으로 적을 수 있겠습니다.\n고맙습니다.",
+    "difficulty": "advanced",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=328059)",
+    "source_date": "2026. 3. 10.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "추크츠방",
+        "incorrect": "",
+        "explanation": "Zugzwang의 한글 표기를 국제 음성 기호 대조표에 따라 분석한 사례"
+      }
+    ],
+    "tags": [
+      "발음 표기",
+      "독일어",
+      "체스 용어",
+      "로마자 변환"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00452",
+    "title": "외래어 표기법 질문 드립니다",
+    "category": "romanization",
+    "subcategory": "외국 인명 표기",
+    "rule_number": "",
+    "description": "안녕하십니까?\n문의하신 미국인의 이름 'Je'Von'은 규범 표기가 정해진 바 없고, 심의되지 않은 외국인 인명에 대해서는 정확한 표기가 무엇이라고 단정하여 말씀드리기 어렵다는 점 양해 부탁드립니다.\n다만 제시해 주신 발음을 고려해 보면, 미국인의 이름 'Je'Von'은 국제 음성 기호와 한글을 대조한 <외래어 표기법> 제2장의 '표1'과 영어의 표기 세칙을 규정한 제3장 제1절 등을 참고하여 표기할 수는 있습니다. 'Je'Von'이라는 이름은 히브리어에서 기원한 것인지는 확실하지 않고, 그렇다 하더라도 미국인의 이름이라는 점과 제시해 주신 발음 등을 감안하면 영어의 표기에 준하여 표기할 수 있을 것으로 보입니다.\n먼저 [dʒɛvən]으로 발음할 경우, [dʒ]는 제3장 제1절 제4항의 '모음 앞의 [ʧ], [ʤ]는 ‘ㅊ’, ‘ㅈ’으로 적는다'라는 규정과 '표1'에 따라 'ㅈ'으로 적습니다. 그리고 모음 [ɛ]는 '표1'에 따라 '에'로 적습니다. 따라서 [dʒɛ]의 표기는 '제'가",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327551)",
+    "source_date": "2026. 2. 20.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "제번, 저본, 저반",
+        "incorrect": "",
+        "explanation": "Je'Von 이름의 한글 표기 방법에 대한 외래어 표기법 적용 안내"
+      }
+    ],
+    "tags": [
+      "발음 표기",
+      "미국 인명",
+      "히브리어 기원",
+      "외래어 표기법 적용"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00458",
+    "title": "로마자: 죠, 쵸, 쪄... -> 조, 초, 쩌?",
+    "category": "romanization",
+    "subcategory": "로마자 표기법의 예외 적용 및 외래어 처리",
+    "rule_number": "",
+    "description": "안녕하십니까?\n문의하신 내용에 대해 국어의 로마자 표기법에서 명시적으로 규정하는 바는 없어, 단정적인 답변을 드리기 어렵습니다. 다만 국어의 로마자 표기법 제1장 제1항에서는 \"국어의 로마자 표기는 국어의 표준 발음법에 따라 적는 것을 원칙으로 한다\"라고 규정하고 있으므로, 말씀하신 경우를 굳이 로마자로 적는다면 그 발음인 [저, 쩌, 처]에 준하여 로마자로 옮겨 적는 것이 좀 더 적절하다고 볼 수는 있겠습니다. 한편 '외래어'나 '외국어'는 이미 그 원어가 별도로 있는 표현이므로, 그 원어를 그대로 적는 것이 맞지 원어를 한글로 옮겨 적은 것을 다시 로마자 표기법에 의해 옮겨 적는 것은 적절하지 않습니다. 따라서 문의하신 표현은 원어를 찾아 그 원어대로 쓰는 것이 적절해 보입니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327557)",
+    "source_date": "2026. 2. 21.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "Jaws (원어 존중)",
+        "incorrect": "jyoseu (한글 발음의 로마자 표기 오류)",
+        "explanation": "로마자 표기 시 표준 발음법 적용 여부와 외래어 원어 표기 우선성 설명"
+      }
+    ],
+    "tags": [
+      "발음 기반 표기",
+      "외래어 원어 존중",
+      "용언 활용형 표기"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00472",
+    "title": "호박엿 로마자 표기",
+    "category": "romanization",
+    "subcategory": "로마자 표기 시 발음 반영 문제",
+    "rule_number": "",
+    "description": "안녕하십니까?\n한국어의 로마자 표기는 <로마자 표기법> 제1장 제1항에 따라 국어의 표준 발음법에 따라 적는 것을 원칙으로 하며 제3장 제1항의 2에 따라 ‘ㄴ, ㄹ’이 덧나는 경우에는 그 발음을 반영합니다. 문의하신 '호박엿'의 표준 발음은 [호방녇]이므로 말씀하신 바와 같이 'hobangnyeot'으로 표기할 수 있습니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327572)",
+    "source_date": "2026. 2. 21.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "hobangnyeot",
+        "incorrect": "hobaknyeot",
+        "explanation": "호박엿의 로마자 표기는 표준 발음 [호방녇]을 반영하여 'hobangnyeot'이 맞음"
+      }
+    ],
+    "tags": [
+      "로마자 표기",
+      "발음 반영",
+      "합성어 표기"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00498",
+    "title": "저가 만든 한국어 로마자표기법 입니다",
+    "category": "romanization",
+    "subcategory": "로마자 표기법 개선 제안",
+    "rule_number": "",
+    "description": "안녕하십니까?\n남기신 글은 건의 사항으로 보이므로, 관련 부서에 전달하도록 하겠습니다. 다만 이러한 건의 내용에 대해 온라인가나다에서 답변을 드리기는 어렵습니다. 이 점 양해해 주시기 바랍니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327600)",
+    "source_date": "2026. 2. 22.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "Ăă=어, Ũũ=와",
+        "incorrect": "으=eu (현행 표기)",
+        "explanation": "기존 로마자 표기법의 문제점을 해결하기 위한 새로운 표기 체계 제안"
+      }
+    ],
+    "tags": [
+      "로마자",
+      "표기 체계",
+      "언어학",
+      "문자 개혁",
+      "한국어 표기"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00585",
+    "title": "외래어",
+    "category": "romanization",
+    "subcategory": "독일어 인명 표기",
+    "rule_number": "",
+    "description": "안녕하십니까?\n문의하신 'Hans Vaihinger'가 독일의 철학자로, 발음 기호가 [hans ˈfaɪɪŋɐ]가 맞다면 '한스 파이잉어'로 쓸 수 있겠습니다. 외래어 표기법은 어느 나라 언어인지 함께 밝히고, 영어, 프랑스어, 독일어의 경우에는 발음 기호까지 분명히 제시된 경우에만 제시된 발음 기호를 기준으로 답변을 드릴 수 있습니다. 아울러 이러한 기준으로 말씀드리는 외래어 표기는 어디까지나 임의로 말씀드리는 것이며, 관습적 표기나 발음 등에 따라 심의 후 그 표기가 달라질 수 있습니다. 이 점 양지해 주시기 바랍니다. 참고로 외래어 표기법은 '누리집 > 지식 > 어문 규범 찾기'에 있습니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327698)",
+    "source_date": "2026. 2. 25.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "한스 파이잉어",
+        "incorrect": "한스 바이힝거",
+        "explanation": "독일어 인명 'Hans Vaihinger'의 올바른 한글 표기 방식 문의에 대한 답변"
+      }
+    ],
+    "tags": [
+      "독일어",
+      "인명",
+      "발음 기호",
+      "표기 원칙"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00649",
+    "title": "외래어 표기법",
+    "category": "romanization",
+    "subcategory": "외래어 한글 표기",
+    "rule_number": "",
+    "description": "안녕하십니까?\n문의하신 'English Breakfast'는 '잉글리시 브렉퍼스트'로 표기합니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327764)",
+    "source_date": "2026. 2. 27.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "잉글리시 브렉퍼스트",
+        "incorrect": "English Breakfast(로마자 원어)",
+        "explanation": "English Breakfast의 올바른 한글 표기는 '잉글리시 브렉퍼스트'"
+      }
+    ],
+    "tags": [
+      "로마자",
+      "영어",
+      "표기법",
+      "외래어"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00732",
+    "title": "국어의 로마자 표기법에서의 붙임표 사용 횟수의 제한",
+    "category": "romanization",
+    "subcategory": "로마자 표기 시 붙임표(-) 사용",
+    "rule_number": "",
+    "description": "안녕하십니까?\n문의하신 내용에 대해 <국어의 로마자 표기법>에서 규정하고 있지는 않습니다. 즉, 붙임표의 개수에 제한을 둔 바는 없습니다. 또한 제시하신 대로 발음상 혼동의 우려가 있을 때 음절 사이에 붙임표(-)를 쓸 수 있다는 조항이 있습니다. 다만, '장안중앙로'는 고유 명사인 도로명이므로 일반적인 영문 도로명 주소에서 표기되는 방식으로 사용하지 않을 시, 오히려 의사소통에 방해가 될 수 있을 듯합니다. 따라서 행정 구역으로서 '장안중앙로'의 영문 표기인 'Janganjungang-ro'를 따르시기를 권합니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327852)",
+    "source_date": "2026. 3. 2.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "Janganjungang-ro (표준 표기)",
+        "incorrect": "Jang-anjung-ang-ro (과도한 붙임표 사용으로 비표준)",
+        "explanation": "로마자 표기 시 붙임표(-) 사용 횟수 제한과 혼동 방지를 위한 표기 방식에 대한 답변"
+      }
+    ],
+    "tags": [
+      "로마자 표기법",
+      "붙임표 사용",
+      "도로명 주소",
+      "발음 혼동 방지"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00785",
+    "title": "국문 이름의 영문명 표기 문의",
+    "category": "romanization",
+    "subcategory": "로마자 표기 규정 및 예외 적용",
+    "rule_number": "",
+    "description": "안녕하십니까?\n현행 여권법 시행규칙 제2조의2 제1항에 '여권 명의인의 로마자로 표기한 성명은 가족관계등록부에 등록된 한글성명을 문화체육관광부장관이 정하여 고시하는 표기 방법에 따라 음절 단위로 음역에 맞게 표기'하는 것으로 되어 있으므로, 성명은 <로마자 표기법>에 따라 표기해야 합니다. 따라서 '주안'은 'Juan'으로 표기합니다. 다만 <로마자 표기법> 제4항에서 이름은 붙여 쓰는 것을 원칙으로 하되 음절 사이에 붙임표(-)를 쓰는 것을 허용한다고 하였으므로 'Ju-an'과 같이 쓸 수도 있습니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327912)",
+    "source_date": "2026. 3. 5.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "주안 → Juan (또는 Ju-an)",
+        "incorrect": "주안 → JUAHN",
+        "explanation": "여권 영문명 '주안'을 'JUAN' 대신 'JUAHN'으로 표기 가능한지 문의한 사례"
+      }
+    ],
+    "tags": [
+      "로마자 표기",
+      "여권 발급",
+      "국제적 사용",
+      "스페인어권 이름",
+      "표기 예외"
+    ]
+  },
+  {
+    "id": "ganada-romanization-00815",
+    "title": "프랑스어 인명에서 하이픈(-)을 번역시 띄어쓰기는 어떻게 하나요?",
+    "category": "romanization",
+    "subcategory": "프랑스어 인명 표기 규칙",
+    "rule_number": "",
+    "description": "안녕하십니까?\n외래어 인명의 표기는 일반적으로 성과 이름을 띄어 쓰는 것이 원칙입니다. 또한 원어에 하이픈(-)이 포함된 성이나 이름의 경우에는 하이픈을 없애고 그 요소들을 붙여서 적습니다. Saint-Exupéry는 관용적으로 하이픈을 적용하여 붙여 쓴 예로, ‘생텍쥐페리’로 적습니다. 그리고 <표준국어대사전>에 등재된 '루소'와 '사르트르'의 원어를 살펴보면 'Jean Jacques Rousseau'와 'Jean Paul Sartre'와 같이 성과 이름이 띄어 쓰여 있으므로 ‘장 자크 루소’, ‘장 폴 사르트르’와 같이 씁니다.\n고맙습니다.",
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "source": "온라인가나다 (qna_seq=327947)",
+    "source_date": "2026. 3. 6.",
+    "related_rules": [],
+    "examples": [
+      {
+        "correct": "생텍쥐페리, 장 자크 루소, 장 폴 사르트르",
+        "incorrect": "장자크 루소, 장폴 사르트르",
+        "explanation": "프랑스어 인명 표기 시 하이픈은 생략하고 관용 표기나 사전 등재 여부에 따라 띄어쓰기 적용"
+      }
+    ],
+    "tags": [
+      "표준국어대사전",
+      "관용 표기",
+      "프랑스어 인명"
+    ]
+  }
+]

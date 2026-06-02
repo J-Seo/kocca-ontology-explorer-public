@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp.*
+
+# Build
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment
+.env
+.env.local
+.env.production
+!.env.example
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Vercel
+.vercel
+
+# Logs
+*.log
+npm-debug.log*
+
+# 큰 데이터 — 빌드 시 Turso에 마이그레이션됨
+src/data/lexicon/*.sqlite
+src/data/lexicon/*.sqlite-*
+src/data/raw/

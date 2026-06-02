@@ -1,0 +1,2646 @@
+{
+  "nodes": [
+    {
+      "id": "cat-spelling",
+      "label": "맞춤법",
+      "type": "category"
+    },
+    {
+      "id": "cat-grammar",
+      "label": "문법",
+      "type": "category"
+    },
+    {
+      "id": "cat-vocabulary",
+      "label": "어휘",
+      "type": "category"
+    },
+    {
+      "id": "cat-spacing",
+      "label": "띄어쓰기",
+      "type": "category"
+    },
+    {
+      "id": "cat-pronunciation",
+      "label": "발음/표기",
+      "type": "category"
+    },
+    {
+      "id": "cat-foreign",
+      "label": "외래어",
+      "type": "category"
+    },
+    {
+      "id": "cat-honorific",
+      "label": "높임법",
+      "type": "category"
+    },
+    {
+      "id": "cat-expression",
+      "label": "표현/문체",
+      "type": "category"
+    },
+    {
+      "id": "prin-phoneme",
+      "label": "음운 변동 원리",
+      "type": "principle"
+    },
+    {
+      "id": "prin-respect",
+      "label": "높임법 원리",
+      "type": "principle"
+    },
+    {
+      "id": "prin-coherence",
+      "label": "문장 호응 원리",
+      "type": "principle"
+    },
+    {
+      "id": "prin-tense",
+      "label": "시제 원리",
+      "type": "principle"
+    },
+    {
+      "id": "prin-negation",
+      "label": "부정 표현 원리",
+      "type": "principle"
+    },
+    {
+      "id": "prin-spacing",
+      "label": "띄어쓰기 원리",
+      "type": "principle"
+    },
+    {
+      "id": "rule-saisiot",
+      "label": "사이시옷 규칙",
+      "type": "rule"
+    },
+    {
+      "id": "rule-doensori",
+      "label": "된소리 표기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-dueum",
+      "label": "두음법칙",
+      "type": "rule"
+    },
+    {
+      "id": "rule-de-dae",
+      "label": "~데/~대 구별",
+      "type": "rule"
+    },
+    {
+      "id": "rule-roseo",
+      "label": "~로서/~로써 구별",
+      "type": "rule"
+    },
+    {
+      "id": "rule-ihi",
+      "label": "~이/~히 부사",
+      "type": "rule"
+    },
+    {
+      "id": "rule-pidong",
+      "label": "피동 표현",
+      "type": "rule"
+    },
+    {
+      "id": "rule-sadong",
+      "label": "사동 표현",
+      "type": "rule"
+    },
+    {
+      "id": "rule-honorific",
+      "label": "주체/객체 높임",
+      "type": "rule"
+    },
+    {
+      "id": "rule-josa",
+      "label": "조사 사용",
+      "type": "rule"
+    },
+    {
+      "id": "rule-houng",
+      "label": "문장성분 호응",
+      "type": "rule"
+    },
+    {
+      "id": "rule-spacing-josa",
+      "label": "조사 붙여 쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-spacing-dep",
+      "label": "의존명사 띄어 쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-spacing-aux",
+      "label": "보조용언 띄어 쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-irregular",
+      "label": "불규칙 활용",
+      "type": "rule"
+    },
+    {
+      "id": "rule-vowel-harmony",
+      "label": "모음조화",
+      "type": "rule"
+    },
+    {
+      "id": "rule-consonant",
+      "label": "겹받침 발음/표기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-hieut",
+      "label": "ㅎ탈락/거센소리되기",
+      "type": "rule"
+    },
+    {
+      "id": "rule-foreign",
+      "label": "외래어 표기법",
+      "type": "rule"
+    },
+    {
+      "id": "rule-tense",
+      "label": "시제 표현",
+      "type": "rule"
+    },
+    {
+      "id": "rule-quotation",
+      "label": "인용 표현",
+      "type": "rule"
+    },
+    {
+      "id": "rule-negation",
+      "label": "부정 표현 (안/못)",
+      "type": "rule"
+    },
+    {
+      "id": "rule-modifier",
+      "label": "관형사형 어미",
+      "type": "rule"
+    },
+    {
+      "id": "rule-ending",
+      "label": "종결어미",
+      "type": "rule"
+    },
+    {
+      "id": "rule-ambiguity",
+      "label": "중의성 해소",
+      "type": "rule"
+    },
+    {
+      "id": "rule-translation",
+      "label": "번역투 바로잡기",
+      "type": "rule"
+    },
+    {
+      "id": "ex-namutip",
+      "label": "나뭇잎 (사이시옷)",
+      "type": "example"
+    },
+    {
+      "id": "ex-andoeda",
+      "label": "안 되다/안되다",
+      "type": "example"
+    },
+    {
+      "id": "ex-doeda",
+      "label": "돼/되 구별",
+      "type": "example"
+    },
+    {
+      "id": "ex-coffee",
+      "label": "커피 나오셨습니다(사물존대)",
+      "type": "example"
+    },
+    {
+      "id": "ex-bus",
+      "label": "버스/뻐스(외래어)",
+      "type": "example"
+    },
+    {
+      "id": "cat-standard",
+      "label": "표준어/비표준어",
+      "type": "category"
+    },
+    {
+      "id": "cat-romanization",
+      "label": "로마자 표기",
+      "type": "category"
+    },
+    {
+      "id": "cat-purification",
+      "label": "순화어",
+      "type": "category"
+    },
+    {
+      "id": "cat-terminology",
+      "label": "전문 용어",
+      "type": "category"
+    },
+    {
+      "id": "cat-spacing-advanced",
+      "label": "띄어쓰기 심화",
+      "type": "category"
+    },
+    {
+      "id": "cat-punctuation",
+      "label": "문장 부호",
+      "type": "category"
+    },
+    {
+      "id": "cat-dialect",
+      "label": "방언/지역어",
+      "type": "category"
+    },
+    {
+      "id": "cat-education",
+      "label": "한국어 교육",
+      "type": "category"
+    },
+    {
+      "id": "ganada-spacing-00009",
+      "label": "평균온도? 평균 온도?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00045",
+      "label": "관형사형+보조용언 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00066",
+      "label": "띄어쓰기(그럴리가)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00068",
+      "label": "피워 펴",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00079",
+      "label": "막힐성싶었는지'를 어떻게 띄어 쓰나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00111",
+      "label": "따옴표 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00114",
+      "label": "'는 걸' '는걸' 띄어쓰기 문의합니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00119",
+      "label": "친누나의 자녀는 외조카라고 하는 것이 맞나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00128",
+      "label": "~보다 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00135",
+      "label": "띄어쓰기 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00142",
+      "label": "'써본' 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-romanization-00156",
+      "label": "멘틀 멘탈 멘털",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00200",
+      "label": "'앱' 과 '어플' 의 올바른 표기법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00218",
+      "label": "옛날옛적 띄어 쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00241",
+      "label": "움직일 만한, 움직일만 한",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00248",
+      "label": "며칠, 몇 일",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00262",
+      "label": "이루어 주다, 칭찬해 주다, 설정해 두다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00270",
+      "label": "꺼내 들다 / 꺼내들다, -로써/-로서",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00294",
+      "label": "며칠, 몇 일 구분하는 방법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00297",
+      "label": "법률인용시 연속 쌍따옴표 표기에대한질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00301",
+      "label": "별 거 없다, 별거 없다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00306",
+      "label": "사이, 관계 따위가 '잘되다' 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00307",
+      "label": "트렌드와 트랜드 중 어떤 것이 옳은 단어인가요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00312",
+      "label": "띄어쓰기(보자)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00319",
+      "label": "띄어쓰기(살아있는)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00355",
+      "label": "해 봤자. 해봤자",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00360",
+      "label": "키워주웠다 키워주었다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00367",
+      "label": "별 볼 일 없다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00374",
+      "label": "띄어쓰기 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00378",
+      "label": "문장부호 관련",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00429",
+      "label": "~세(나이) 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00433",
+      "label": "‘고생하셨습니다’ 와 ‘수고하셨습니다’의 사용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00436",
+      "label": "자식을 위해서라면 {못 할, 못할} 것이 없다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00001",
+      "label": "보슬비",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00002",
+      "label": "'용서하다'에서 '하'는 실질 형태소 아니면 형식형태소",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00003",
+      "label": "되다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00004",
+      "label": "'빼앗다'의 형태소 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00005",
+      "label": "수학 게임하다 / 수학 게임 하다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-standard-00006",
+      "label": "변경된 건가요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00007",
+      "label": "[재질문] 한국어 단어의 표현과 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00008",
+      "label": "감탄문 평서문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00010",
+      "label": "토론에 대해서",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00011",
+      "label": "많이 형태소",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00012",
+      "label": "모랫더미 맞춤법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00013",
+      "label": "시체밭",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-standard-00014",
+      "label": "살풋",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00015",
+      "label": "멀다의 활용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00017",
+      "label": "현재시제일때 감정의 과거형을 써도 괜찮나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00018",
+      "label": "로서/로써",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00019",
+      "label": "쉼표 사용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00020",
+      "label": "대화체에서 문장 부호",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-romanization-00021",
+      "label": "된소리 로마자 표기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00022",
+      "label": "쉼표의 12번째 용법 질문이요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00023",
+      "label": "“회덮밥”의 띄어쓰기가 궁금합니다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00024",
+      "label": "사동 접미사 \"-시키다\"의 쓰임 등",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-honorific-00025",
+      "label": "들다 드시다 높임 선어말어미 ㄹ 탈락 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00026",
+      "label": "“울 거니” 형태소 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00027",
+      "label": "단위 올림, 버림 관련 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00028",
+      "label": "옷 열두 벌 받아서 ? 열두 벌받아서 ?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00029",
+      "label": "'꽃내음'은 한 단어인가요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00030",
+      "label": "접미사 '-하다' 단어 형성 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00031",
+      "label": "조사",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00032",
+      "label": "관형사형 어미 ‘은’과 과거시제",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00033",
+      "label": "음성은 음향에 포함되나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00035",
+      "label": "밀리다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00036",
+      "label": "A와 B의 일부",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00037",
+      "label": "장난감 품사가 자립형태소 2개로 분류하던데 원리를 알 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00038",
+      "label": "외국어 표기에 관해 일본식 표기를 고칠 수 없나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00039",
+      "label": "꿈을 꾸다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00040",
+      "label": "경유,등유",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00042",
+      "label": "늦다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00043",
+      "label": "문장 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00044",
+      "label": "국어 자음자, 모음자, 음운 개수",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00046",
+      "label": "발음의 전통성과 합리성",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00047",
+      "label": "전략비축유",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00048",
+      "label": "열 개[열깨] 경음화 이유",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00049",
+      "label": "합성어 문의 '주어진'",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00050",
+      "label": "\"ㄹ\"의 발음 \"알았다\"의 경우",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-punctuation-00051",
+      "label": "온점 사용방법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00052",
+      "label": "헛되다 품사와 단어 구조",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00053",
+      "label": "내덕이야가 내덕시야 또는 내덕씨야로 발음되는 경우",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00054",
+      "label": "사이소리 현상",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00055",
+      "label": "절삭력",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-standard-00056",
+      "label": "궁능유적본부는 왜 궁릉유적본부가 아닌가요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00058",
+      "label": "할증료 발음 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-honorific-00059",
+      "label": "존칭과 호칭 관련 질문입니다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00060",
+      "label": "'-여'의 의미",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00061",
+      "label": "이상 ~였습니다. 이상은 ~였습니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00062",
+      "label": "임진왜란시기 조선을 침략한 왜군의 호칭",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00063",
+      "label": "맞춤법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00064",
+      "label": "[재질문] Reality show의 우리말 표기법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00065",
+      "label": "올바른 표현(으며)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00067",
+      "label": "안녕하세요. 궁금증이 있습니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00069",
+      "label": "대화랑 전화예절에 대한 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00070",
+      "label": "단위성 의존 명",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00071",
+      "label": "날짜 계산 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00072",
+      "label": "해체되다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-honorific-00073",
+      "label": "이름 외자 높여말하기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00074",
+      "label": "된소리 발음 등의 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00075",
+      "label": "-더라도/-더래도",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-advanced-00009",
+      "label": "평균온도? 평균 온도?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00049",
+      "label": "합성어 문의 '주어진'",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00107",
+      "label": "하루이틀",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-romanization-00157",
+      "label": "이름 영문명 표기 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00185",
+      "label": "못하다의 활용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00192",
+      "label": "서술어 자릿수",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00200",
+      "label": "'앱' 과 '어플' 의 올바른 표기법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00294",
+      "label": "며칠, 몇 일 구분하는 방법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00298",
+      "label": "사이시옷 표기를 전면 재고해야 합니다 (개판 오분 전)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00311",
+      "label": "띄어쓰기 문의드립니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00313",
+      "label": "단위 뒤 이상, 이하, 미만 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00318",
+      "label": "'알겠냐마는' 질문합니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00341",
+      "label": "[재질문] 합성어가 존재하여 두 단어를 붙여 쓰는 것 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00355",
+      "label": "해 봤자. 해봤자",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00358",
+      "label": "살아 진다, 살아진다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00403",
+      "label": "합성어가 존재하여 두 단어를 붙여 쓰는 것 역시 가능한",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00414",
+      "label": "띄어쓰기 궁금합니다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00417",
+      "label": "주된",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00438",
+      "label": "설명해주세요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00453",
+      "label": "이런 경우엔 얘들아가 맞나요, 애들아가 맞나요? (+ ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00484",
+      "label": "짜장면이 맞나요? 아니면 자장면이 맞나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00506",
+      "label": "프론티어 / 프런티어",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00510",
+      "label": "띄어쓰기 질문드립니다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00516",
+      "label": "수와 단위 사용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00539",
+      "label": "궁금해요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00552",
+      "label": "[재질문] 맞추는 / 맞히는 맞춤법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00572",
+      "label": "뭘로와 뭐로",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00576",
+      "label": "괄호 뒤 조사 어떻게 써야 하나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00604",
+      "label": "이걸 잘 모르겠어요! 도와주세요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-standard-00607",
+      "label": "'네가'와 '너가' 중 어떤게 더 맞는 표현일까요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00620",
+      "label": "잘 하다의 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00622",
+      "label": "준말과 본딧말 규정",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00627",
+      "label": "안되겠네 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00637",
+      "label": "-(이)ㄴ들 표현이 명사와 결합하는 경우",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00639",
+      "label": "차비를 내주다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00654",
+      "label": "무단 사용하다, 심층 취재하다, 강제 연행되다, 긴급 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00671",
+      "label": "[재질문] 밖에의 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00681",
+      "label": "같은 같이",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00708",
+      "label": "안 될 걸 안될 걸 안 될걸 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00721",
+      "label": "안 돼요/안 되요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00726",
+      "label": "띄어쓰기(다음?, 지난?)",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-honorific-00757",
+      "label": "사람을 높이는 '-분' (접미사) 표현의 무분별한 남용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00791",
+      "label": "필요로하다 띄어쓰기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00810",
+      "label": "국립국어원의 절대고집, Solution에 대한 표준어 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00821",
+      "label": "'알리다' 활용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00829",
+      "label": "'~들'의 띄어쓰기 의미 차이 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00832",
+      "label": "'돼'와 '되' 의 사용에 대해 안 헷갈리는 학습법이 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00853",
+      "label": "'안 되다와 안되다 표기, 현재 규범 유지가 타당한지 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00859",
+      "label": "가늠이 잘 안돼",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00001",
+      "label": "보슬비",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00002",
+      "label": "'용서하다'에서 '하'는 실질 형태소 아니면 형식형태소",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00003",
+      "label": "되다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00008",
+      "label": "감탄문 평서문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00011",
+      "label": "많이 형태소",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00012",
+      "label": "모랫더미 맞춤법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00016",
+      "label": "섞박지 어원",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-expression-00017",
+      "label": "현재시제일때 감정의 과거형을 써도 괜찮나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00018",
+      "label": "로서/로써",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00019",
+      "label": "쉼표 사용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00020",
+      "label": "대화체에서 문장 부호",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00021",
+      "label": "된소리 로마자 표기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00024",
+      "label": "사동 접미사 \"-시키다\"의 쓰임 등",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00026",
+      "label": "“울 거니” 형태소 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00033",
+      "label": "음성은 음향에 포함되나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00034",
+      "label": "물난리 동화 종류",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00036",
+      "label": "A와 B의 일부",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00037",
+      "label": "장난감 품사가 자립형태소 2개로 분류하던데 원리를 알 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00038",
+      "label": "외국어 표기에 관해 일본식 표기를 고칠 수 없나요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00040",
+      "label": "경유,등유",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00041",
+      "label": "'오누이'의 통사, 비통사 여부",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00043",
+      "label": "문장 분석",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00044",
+      "label": "국어 자음자, 모음자, 음운 개수",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00051",
+      "label": "온점 사용방법 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00053",
+      "label": "내덕이야가 내덕시야 또는 내덕씨야로 발음되는 경우",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00056",
+      "label": "궁능유적본부는 왜 궁릉유적본부가 아닌가요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00057",
+      "label": "구개음화와 반모음 탈락에 대하여 질문 드립니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00059",
+      "label": "존칭과 호칭 관련 질문입니다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00060",
+      "label": "'-여'의 의미",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00068",
+      "label": "피워 펴",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00071",
+      "label": "날짜 계산 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00073",
+      "label": "이름 외자 높여말하기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00074",
+      "label": "된소리 발음 등의 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00076",
+      "label": "'가만히'에 뜻을 알고 싶습니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00077",
+      "label": "인명 Immermann, Karl Leberecht 표",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00078",
+      "label": "'외백부' 라는 표현은 틀린걸까요?",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00080",
+      "label": "어미 -ㄴ바와 의존명사 바 관련 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00081",
+      "label": "사자소학 발음법",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00082",
+      "label": "수고하셨습니다, 고생하셨습니다 대체언어 알고싶습니다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00083",
+      "label": "격찬, 극찬, 격상(激賞), 절찬의 차이",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00084",
+      "label": "한 단어로 굳은 표현들을 기본 원칙에 맞게 쓰면 틀린 ",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spacing-00085",
+      "label": "'들'의 띄어쓰기 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00086",
+      "label": "포근하다",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00087",
+      "label": "맛집 ㄴ첨가",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00088",
+      "label": "국어 어법 질문",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00089",
+      "label": "을숙도의 표준 발음",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00090",
+      "label": "명사와 수사 구별",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00091",
+      "label": "안녕하세요",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00092",
+      "label": "글피",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-spelling-00093",
+      "label": "떡볶이집 vs 떡볶잇집",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00094",
+      "label": "하천의 흐름에너지를 감세 or 감쇄시키다.",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-vocabulary-00095",
+      "label": "어법과 음식의 사용",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00096",
+      "label": "티라미수",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00097",
+      "label": "현재 시제 선어말어미 -는",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-foreign-00098",
+      "label": "중국 인명 표기",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-grammar-00099",
+      "label": "표현의 사용 범위 문의",
+      "type": "rule"
+    },
+    {
+      "id": "ganada-pronunciation-00100",
+      "label": "'일일이'의 발음에 대하여",
+      "type": "rule"
+    }
+  ],
+  "edges": [
+    {
+      "source": "cat-spelling",
+      "target": "rule-saisiot",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "rule-doensori",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "rule-dueum",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "rule-de-dae",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "rule-roseo",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "rule-ihi",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-pidong",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-sadong",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-honorific",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-josa",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-houng",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-tense",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-quotation",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-negation",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-modifier",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-ending",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "rule-ambiguity",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "rule-spacing-josa",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "rule-spacing-dep",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "rule-spacing-aux",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "rule-consonant",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "rule-hieut",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "rule-vowel-harmony",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "rule-irregular",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "rule-foreign",
+      "label": "포함"
+    },
+    {
+      "source": "cat-honorific",
+      "target": "rule-honorific",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "rule-translation",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "rule-ambiguity",
+      "label": "포함"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-saisiot",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-doensori",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-dueum",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-consonant",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-hieut",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-phoneme",
+      "target": "rule-vowel-harmony",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-respect",
+      "target": "rule-honorific",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-respect",
+      "target": "rule-ending",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-coherence",
+      "target": "rule-houng",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-coherence",
+      "target": "rule-ambiguity",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-tense",
+      "target": "rule-tense",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-tense",
+      "target": "rule-modifier",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-negation",
+      "target": "rule-negation",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-negation",
+      "target": "rule-houng",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-spacing",
+      "target": "rule-spacing-josa",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-spacing",
+      "target": "rule-spacing-dep",
+      "label": "원리 적용"
+    },
+    {
+      "source": "prin-spacing",
+      "target": "rule-spacing-aux",
+      "label": "원리 적용"
+    },
+    {
+      "source": "rule-saisiot",
+      "target": "rule-doensori",
+      "label": "관련 규칙"
+    },
+    {
+      "source": "rule-de-dae",
+      "target": "rule-roseo",
+      "label": "유사 혼동"
+    },
+    {
+      "source": "rule-pidong",
+      "target": "rule-sadong",
+      "label": "대응 관계"
+    },
+    {
+      "source": "rule-pidong",
+      "target": "rule-translation",
+      "label": "번역투 연관"
+    },
+    {
+      "source": "rule-josa",
+      "target": "rule-spacing-josa",
+      "label": "관련 규칙"
+    },
+    {
+      "source": "rule-houng",
+      "target": "rule-josa",
+      "label": "문법 연계"
+    },
+    {
+      "source": "rule-houng",
+      "target": "rule-negation",
+      "label": "부정 호응"
+    },
+    {
+      "source": "rule-tense",
+      "target": "rule-modifier",
+      "label": "시제 연계"
+    },
+    {
+      "source": "rule-vowel-harmony",
+      "target": "rule-irregular",
+      "label": "활용 관련"
+    },
+    {
+      "source": "rule-honorific",
+      "target": "rule-ending",
+      "label": "체계 연결"
+    },
+    {
+      "source": "rule-quotation",
+      "target": "rule-ending",
+      "label": "어미 관련"
+    },
+    {
+      "source": "rule-saisiot",
+      "target": "ex-namutip",
+      "label": "예시"
+    },
+    {
+      "source": "rule-spacing-dep",
+      "target": "ex-andoeda",
+      "label": "예시"
+    },
+    {
+      "source": "rule-irregular",
+      "target": "ex-doeda",
+      "label": "예시"
+    },
+    {
+      "source": "rule-honorific",
+      "target": "ex-coffee",
+      "label": "반례"
+    },
+    {
+      "source": "rule-foreign",
+      "target": "ex-bus",
+      "label": "예시"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "rule-roseo",
+      "label": "어휘 연계"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "rule-de-dae",
+      "label": "어휘 연계"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00009",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00045",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00066",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00068",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00079",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00111",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00114",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00119",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00128",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00135",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00142",
+      "label": "포함"
+    },
+    {
+      "source": "cat-romanization",
+      "target": "ganada-romanization-00156",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00200",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00218",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00241",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00248",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00262",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00270",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00294",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00297",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00301",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00306",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00307",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00312",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00319",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00355",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00360",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00367",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00374",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00378",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00429",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00433",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00436",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00001",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00002",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00003",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00004",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00005",
+      "label": "포함"
+    },
+    {
+      "source": "cat-standard",
+      "target": "ganada-standard-00006",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00007",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00008",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00010",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00011",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00012",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00013",
+      "label": "포함"
+    },
+    {
+      "source": "cat-standard",
+      "target": "ganada-standard-00014",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00015",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00017",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00018",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00019",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00020",
+      "label": "포함"
+    },
+    {
+      "source": "cat-romanization",
+      "target": "ganada-romanization-00021",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00022",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00023",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00024",
+      "label": "포함"
+    },
+    {
+      "source": "cat-honorific",
+      "target": "ganada-honorific-00025",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00026",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00027",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00028",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00029",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00030",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00031",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00032",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00033",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00035",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00036",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00037",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00038",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00039",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00040",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00042",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00043",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00044",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00046",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00047",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00048",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00049",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00050",
+      "label": "포함"
+    },
+    {
+      "source": "cat-punctuation",
+      "target": "ganada-punctuation-00051",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00052",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00053",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00054",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00055",
+      "label": "포함"
+    },
+    {
+      "source": "cat-standard",
+      "target": "ganada-standard-00056",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00058",
+      "label": "포함"
+    },
+    {
+      "source": "cat-honorific",
+      "target": "ganada-honorific-00059",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00060",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00061",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00062",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00063",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00064",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00065",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00067",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00069",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00070",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00071",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00072",
+      "label": "포함"
+    },
+    {
+      "source": "cat-honorific",
+      "target": "ganada-honorific-00073",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00074",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00075",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing-advanced",
+      "target": "ganada-spacing-advanced-00009",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00049",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00107",
+      "label": "포함"
+    },
+    {
+      "source": "cat-romanization",
+      "target": "ganada-romanization-00157",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00185",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00192",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00200",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00294",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00298",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00311",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00313",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00318",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00341",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00355",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00358",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00403",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00414",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00417",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00438",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00453",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00484",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00506",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00510",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00516",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00539",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00552",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00572",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00576",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00604",
+      "label": "포함"
+    },
+    {
+      "source": "cat-standard",
+      "target": "ganada-standard-00607",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00620",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00622",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00627",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00637",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00639",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00654",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00671",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00681",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00708",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00721",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00726",
+      "label": "포함"
+    },
+    {
+      "source": "cat-honorific",
+      "target": "ganada-honorific-00757",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00791",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00810",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00821",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00829",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00832",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00853",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00859",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00001",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00002",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00003",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00008",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00011",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00012",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00016",
+      "label": "포함"
+    },
+    {
+      "source": "cat-expression",
+      "target": "ganada-expression-00017",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00018",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00019",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00020",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00021",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00024",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00026",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00033",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00034",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00036",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00037",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00038",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00040",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00041",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00043",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00044",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00051",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00053",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00056",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00057",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00059",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00060",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00068",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00071",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00073",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00074",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00076",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00077",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00078",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00080",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00081",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00082",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00083",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00084",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spacing",
+      "target": "ganada-spacing-00085",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00086",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00087",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00088",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00089",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00090",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00091",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00092",
+      "label": "포함"
+    },
+    {
+      "source": "cat-spelling",
+      "target": "ganada-spelling-00093",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00094",
+      "label": "포함"
+    },
+    {
+      "source": "cat-vocabulary",
+      "target": "ganada-vocabulary-00095",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00096",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00097",
+      "label": "포함"
+    },
+    {
+      "source": "cat-foreign",
+      "target": "ganada-foreign-00098",
+      "label": "포함"
+    },
+    {
+      "source": "cat-grammar",
+      "target": "ganada-grammar-00099",
+      "label": "포함"
+    },
+    {
+      "source": "cat-pronunciation",
+      "target": "ganada-pronunciation-00100",
+      "label": "포함"
+    }
+  ]
+}

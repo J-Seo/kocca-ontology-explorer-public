@@ -1,0 +1,5322 @@
+[
+  {
+    "id": "kornorms:0001-app-1",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>1.>(1)",
+    "path": "부록>1.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "용례 변경, [붙임 1]과 [붙임 2] 추가, [다만] 용어 수정",
+        "path": "부록>1.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-2",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>1.>(2)",
+    "path": "부록>1.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 변경",
+        "path": "부록>1.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-3",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>1.>(3)",
+    "path": "부록>1.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>1.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-4",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>1.>(4)",
+    "path": "부록>1.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 내용 삭제, 구조 변경, 표현 수정, 용례 추가 및  수정",
+        "path": "부록>1.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-5",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(1)",
+    "path": "부록>10.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>10.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-6",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(2)",
+    "path": "부록>10.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-7",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(3)",
+    "path": "부록>10.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-8",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(4)",
+    "path": "부록>10.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-9",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(5)",
+    "path": "부록>10.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-10",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>10.>(6)",
+    "path": "부록>10.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-11",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>11.>(1)",
+    "path": "부록>11.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>11.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-12",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>11.>(2)",
+    "path": "부록>11.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>11.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-13",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>12.>(1)",
+    "path": "부록>12.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>12.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-14",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>12.>(2)",
+    "path": "부록>12.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>12.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-15",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>12.>(3)",
+    "path": "부록>12.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>12.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-16",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>13.>",
+    "path": "부록>13.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>13.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-17",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>14.>",
+    "path": "부록>14.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>14.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-18",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>15.>",
+    "path": "부록>15.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 수정 및 보충",
+        "path": "부록>15.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-19",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>15.>[붙임]",
+    "path": "부록>15.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>15.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-20",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>16.>(1)",
+    "path": "부록>16.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-21",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>16.>(2)",
+    "path": "부록>16.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-22",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>17.>",
+    "path": "부록>17.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [붙임] 추가, 용례 추가 및 수정",
+        "path": "부록>17.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-23",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>18.>",
+    "path": "부록>18.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 일부 삭제, 용례 추가 및 수정",
+        "path": "부록>18.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-24",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>19.>(1)",
+    "path": "부록>19.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>19.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-25",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>19.>(2)",
+    "path": "부록>19.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가",
+        "path": "부록>19.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-26",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>2.>(1)",
+    "path": "부록>2.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>2.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-27",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>2.>(2)",
+    "path": "부록>2.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>2.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-28",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>2.>(3)",
+    "path": "부록>2.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>2.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-29",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>20.>(1)",
+    "path": "부록>20.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>20.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-30",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>20.>(2)",
+    "path": "부록>20.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경",
+        "path": "부록>20.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-31",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>(1)",
+    "path": "부록>21.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-32",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>(2)",
+    "path": "부록>21.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-33",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>(3)",
+    "path": "부록>21.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-34",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>(4)",
+    "path": "부록>21.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-35",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 1]",
+    "path": "부록>21.>[붙임 1]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 1] 추가",
+        "path": "부록>21.>[붙임 1]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-36",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 2]",
+    "path": "부록>21.>[붙임 2]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 2] 추가",
+        "path": "부록>21.>[붙임 2]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-37",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 3]",
+    "path": "부록>21.>[붙임 3]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 3] 추가",
+        "path": "부록>21.>[붙임 3]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-38",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>3.>(1)",
+    "path": "부록>3.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, [붙임] 내용 추가, 용례 추가 및 수정",
+        "path": "부록>3.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-39",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>3.>(2)",
+    "path": "부록>3.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정, 용례 수정",
+        "path": "부록>3.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-40",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>3.>(3)",
+    "path": "부록>3.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정",
+        "path": "부록>3.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-41",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>3.>(4)",
+    "path": "부록>3.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>3.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-42",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(1)",
+    "path": "부록>4.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "내용 일부 수정 및 보충, [다만] 추가, 용례 추가",
+        "path": "부록>4.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-43",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(10)",
+    "path": "부록>4.>(10)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(10)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-44",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(11)",
+    "path": "부록>4.>(11)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(11)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-45",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(12)",
+    "path": "부록>4.>(12)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정 및 삭제",
+        "path": "부록>4.>(12)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-46",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(13)",
+    "path": "부록>4.>(13)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, [붙임 1, 2] 추가, 용례 수정",
+        "path": "부록>4.>(13)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-47",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(14)",
+    "path": "부록>4.>(14)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(14)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-48",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(15)",
+    "path": "부록>4.>(15)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(15)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-49",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(2)",
+    "path": "부록>4.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정",
+        "path": "부록>4.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-50",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(3)",
+    "path": "부록>4.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-51",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(4)",
+    "path": "부록>4.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-52",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(5)",
+    "path": "부록>4.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>4.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-53",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(6)",
+    "path": "부록>4.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-54",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(7)",
+    "path": "부록>4.>(7)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 수정",
+        "path": "부록>4.>(7)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-55",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(8)",
+    "path": "부록>4.>(8)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(8)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-56",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>(9)",
+    "path": "부록>4.>(9)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 보충, 용례 추가 및 수정",
+        "path": "부록>4.>(9)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-57",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>4.>[붙임]",
+    "path": "부록>4.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>4.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-58",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>5.>(1)",
+    "path": "부록>5.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>5.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-59",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>5.>(2)",
+    "path": "부록>5.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>5.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-60",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>5.>(3)",
+    "path": "부록>5.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>5.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-61",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>6.>(1)",
+    "path": "부록>6.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-62",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>6.>(2)",
+    "path": "부록>6.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>6.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-63",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>6.>(3)",
+    "path": "부록>6.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 용례 수정",
+        "path": "부록>6.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-64",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>6.>(4)",
+    "path": "부록>6.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-65",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>6.>[붙임]",
+    "path": "부록>6.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>6.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-66",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>7.>(1)",
+    "path": "부록>7.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>7.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-67",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>7.>(2)",
+    "path": "부록>7.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-68",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>7.>(3)",
+    "path": "부록>7.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-69",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>7.>[붙임]",
+    "path": "부록>7.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>7.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-70",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>8.>(1)",
+    "path": "부록>8.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 수정",
+        "path": "부록>8.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-71",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>8.>(2)",
+    "path": "부록>8.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가 및 수정",
+        "path": "부록>8.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-72",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>9.>(1)",
+    "path": "부록>9.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>9.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-73",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>9.>(2)",
+    "path": "부록>9.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>9.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-74",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 부록>문장 부호>",
+    "path": "부록>문장 부호>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "총칙 내용 보충",
+        "path": "부록>문장 부호>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-75",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 1",
+    "path": "본문>제2장>표 1",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어' → '프랑스어'",
+        "path": "본문>제2장>표 1"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-76",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 10",
+    "path": "본문>제2장>표 10",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '헝가리 어'→ '헝가리어'",
+        "path": "본문>제2장>표 10"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-77",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 11",
+    "path": "본문>제2장>표 11",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '스웨덴 어'→ '스웨덴어'",
+        "path": "본문>제2장>표 11"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-78",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 12",
+    "path": "본문>제2장>표 12",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '노르웨이 어'→ '노르웨이어'",
+        "path": "본문>제2장>표 12"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-79",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 13",
+    "path": "본문>제2장>표 13",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '덴마크 어'→ '덴마크어'",
+        "path": "본문>제2장>표 13"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-80",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 14",
+    "path": "본문>제2장>표 14",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '말레이인도네시아 어'→ '말레이인도네시아어'",
+        "path": "본문>제2장>표 14"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-81",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 15",
+    "path": "본문>제2장>표 15",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '타이 어'→ '타이어'",
+        "path": "본문>제2장>표 15"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-82",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 16",
+    "path": "본문>제2장>표 16",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '베트남 어'→ '베트남어'",
+        "path": "본문>제2장>표 16"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-83",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 17",
+    "path": "본문>제2장>표 17",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제2장>표 17"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-84",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 18",
+    "path": "본문>제2장>표 18",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '네덜란드 어'→ '네덜란드어'",
+        "path": "본문>제2장>표 18"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-85",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 19",
+    "path": "본문>제2장>표 19",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '러시아 어'→ '러시아어', 표기 수정: 'Rostopchinya(Ростопчиня) 로스톱치냐'→ 'Rostopchina(Ростопчина) 로스톱치나'",
+        "path": "본문>제2장>표 19"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-86",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 2",
+    "path": "본문>제2장>표 2",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '에스파냐 어' → '에스파냐어'",
+        "path": "본문>제2장>표 2"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-87",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 3",
+    "path": "본문>제2장>표 3",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '이탈리아 어'→ '이탈리아어'",
+        "path": "본문>제2장>표 3"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-88",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 5",
+    "path": "본문>제2장>표 5",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "제목 수정, 중국어 음 표기의 제시 순서 조정, 웨이드 식 로마자 삭제, 표기 수정: 'you(ou, iu)'→ 'you(iou, iu)'",
+        "path": "본문>제2장>표 5"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-89",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 6",
+    "path": "본문>제2장>표 6",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '폴란드 어'→ '폴란드어'",
+        "path": "본문>제2장>표 6"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-90",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 7",
+    "path": "본문>제2장>표 7",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '체코 어'→ '체코어'",
+        "path": "본문>제2장>표 7"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-91",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 8",
+    "path": "본문>제2장>표 8",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '세르보크로아트 어'→ '세르보크로아트어'",
+        "path": "본문>제2장>표 8"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-92",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 9",
+    "path": "본문>제2장>표 9",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '루마니아 어'→ '루마니아어'",
+        "path": "본문>제2장>표 9"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-93",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제3장>제19절>",
+    "path": "본문>제3장>제19절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제3장>제19절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-94",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제3장>제3절>",
+    "path": "본문>제3장>제3절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어'→ '프랑스어'",
+        "path": "본문>제3장>제3절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0001-app-95",
+    "regulation": "한글맞춤법",
+    "title": "[부록·장 변경] 본문>제2장>표 4",
+    "path": "본문>제2장>표 4",
+    "history": [
+      {
+        "effective_date": "2014-12-05",
+        "notice": "",
+        "description": "일부 추가: 'ニャ ニュ ニョ / 냐 뉴 뇨 / 냐 뉴 뇨'",
+        "path": "본문>제2장>표 4"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-1",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>1.>(1)",
+    "path": "부록>1.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "용례 변경, [붙임 1]과 [붙임 2] 추가, [다만] 용어 수정",
+        "path": "부록>1.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-2",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>1.>(2)",
+    "path": "부록>1.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 변경",
+        "path": "부록>1.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-3",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>1.>(3)",
+    "path": "부록>1.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>1.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-4",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>1.>(4)",
+    "path": "부록>1.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 내용 삭제, 구조 변경, 표현 수정, 용례 추가 및  수정",
+        "path": "부록>1.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-5",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(1)",
+    "path": "부록>10.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>10.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-6",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(2)",
+    "path": "부록>10.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-7",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(3)",
+    "path": "부록>10.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-8",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(4)",
+    "path": "부록>10.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-9",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(5)",
+    "path": "부록>10.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-10",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>10.>(6)",
+    "path": "부록>10.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-11",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>11.>(1)",
+    "path": "부록>11.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>11.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-12",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>11.>(2)",
+    "path": "부록>11.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>11.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-13",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>12.>(1)",
+    "path": "부록>12.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>12.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-14",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>12.>(2)",
+    "path": "부록>12.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>12.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-15",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>12.>(3)",
+    "path": "부록>12.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>12.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-16",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>13.>",
+    "path": "부록>13.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>13.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-17",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>14.>",
+    "path": "부록>14.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>14.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-18",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>15.>",
+    "path": "부록>15.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 수정 및 보충",
+        "path": "부록>15.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-19",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>15.>[붙임]",
+    "path": "부록>15.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>15.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-20",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>16.>(1)",
+    "path": "부록>16.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-21",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>16.>(2)",
+    "path": "부록>16.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-22",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>17.>",
+    "path": "부록>17.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [붙임] 추가, 용례 추가 및 수정",
+        "path": "부록>17.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-23",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>18.>",
+    "path": "부록>18.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 일부 삭제, 용례 추가 및 수정",
+        "path": "부록>18.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-24",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>19.>(1)",
+    "path": "부록>19.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>19.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-25",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>19.>(2)",
+    "path": "부록>19.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가",
+        "path": "부록>19.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-26",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>2.>(1)",
+    "path": "부록>2.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>2.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-27",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>2.>(2)",
+    "path": "부록>2.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>2.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-28",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>2.>(3)",
+    "path": "부록>2.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>2.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-29",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>20.>(1)",
+    "path": "부록>20.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>20.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-30",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>20.>(2)",
+    "path": "부록>20.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경",
+        "path": "부록>20.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-31",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>(1)",
+    "path": "부록>21.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-32",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>(2)",
+    "path": "부록>21.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-33",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>(3)",
+    "path": "부록>21.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-34",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>(4)",
+    "path": "부록>21.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-35",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>[붙임 1]",
+    "path": "부록>21.>[붙임 1]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 1] 추가",
+        "path": "부록>21.>[붙임 1]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-36",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>[붙임 2]",
+    "path": "부록>21.>[붙임 2]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 2] 추가",
+        "path": "부록>21.>[붙임 2]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-37",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>21.>[붙임 3]",
+    "path": "부록>21.>[붙임 3]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 3] 추가",
+        "path": "부록>21.>[붙임 3]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-38",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>3.>(1)",
+    "path": "부록>3.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, [붙임] 내용 추가, 용례 추가 및 수정",
+        "path": "부록>3.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-39",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>3.>(2)",
+    "path": "부록>3.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정, 용례 수정",
+        "path": "부록>3.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-40",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>3.>(3)",
+    "path": "부록>3.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정",
+        "path": "부록>3.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-41",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>3.>(4)",
+    "path": "부록>3.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>3.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-42",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(1)",
+    "path": "부록>4.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "내용 일부 수정 및 보충, [다만] 추가, 용례 추가",
+        "path": "부록>4.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-43",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(10)",
+    "path": "부록>4.>(10)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(10)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-44",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(11)",
+    "path": "부록>4.>(11)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(11)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-45",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(12)",
+    "path": "부록>4.>(12)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정 및 삭제",
+        "path": "부록>4.>(12)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-46",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(13)",
+    "path": "부록>4.>(13)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, [붙임 1, 2] 추가, 용례 수정",
+        "path": "부록>4.>(13)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-47",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(14)",
+    "path": "부록>4.>(14)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(14)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-48",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(15)",
+    "path": "부록>4.>(15)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(15)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-49",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(2)",
+    "path": "부록>4.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정",
+        "path": "부록>4.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-50",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(3)",
+    "path": "부록>4.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-51",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(4)",
+    "path": "부록>4.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-52",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(5)",
+    "path": "부록>4.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>4.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-53",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(6)",
+    "path": "부록>4.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-54",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(7)",
+    "path": "부록>4.>(7)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 수정",
+        "path": "부록>4.>(7)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-55",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(8)",
+    "path": "부록>4.>(8)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(8)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-56",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>(9)",
+    "path": "부록>4.>(9)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 보충, 용례 추가 및 수정",
+        "path": "부록>4.>(9)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-57",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>4.>[붙임]",
+    "path": "부록>4.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>4.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-58",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>5.>(1)",
+    "path": "부록>5.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>5.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-59",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>5.>(2)",
+    "path": "부록>5.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>5.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-60",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>5.>(3)",
+    "path": "부록>5.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>5.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-61",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>6.>(1)",
+    "path": "부록>6.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-62",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>6.>(2)",
+    "path": "부록>6.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>6.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-63",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>6.>(3)",
+    "path": "부록>6.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 용례 수정",
+        "path": "부록>6.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-64",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>6.>(4)",
+    "path": "부록>6.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-65",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>6.>[붙임]",
+    "path": "부록>6.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>6.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-66",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>7.>(1)",
+    "path": "부록>7.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>7.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-67",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>7.>(2)",
+    "path": "부록>7.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-68",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>7.>(3)",
+    "path": "부록>7.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-69",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>7.>[붙임]",
+    "path": "부록>7.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>7.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-70",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>8.>(1)",
+    "path": "부록>8.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 수정",
+        "path": "부록>8.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-71",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>8.>(2)",
+    "path": "부록>8.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가 및 수정",
+        "path": "부록>8.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-72",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>9.>(1)",
+    "path": "부록>9.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>9.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-73",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>9.>(2)",
+    "path": "부록>9.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>9.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-74",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 부록>문장 부호>",
+    "path": "부록>문장 부호>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "총칙 내용 보충",
+        "path": "부록>문장 부호>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-75",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 1",
+    "path": "본문>제2장>표 1",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어' → '프랑스어'",
+        "path": "본문>제2장>표 1"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-76",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 10",
+    "path": "본문>제2장>표 10",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '헝가리 어'→ '헝가리어'",
+        "path": "본문>제2장>표 10"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-77",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 11",
+    "path": "본문>제2장>표 11",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '스웨덴 어'→ '스웨덴어'",
+        "path": "본문>제2장>표 11"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-78",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 12",
+    "path": "본문>제2장>표 12",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '노르웨이 어'→ '노르웨이어'",
+        "path": "본문>제2장>표 12"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-79",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 13",
+    "path": "본문>제2장>표 13",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '덴마크 어'→ '덴마크어'",
+        "path": "본문>제2장>표 13"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-80",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 14",
+    "path": "본문>제2장>표 14",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '말레이인도네시아 어'→ '말레이인도네시아어'",
+        "path": "본문>제2장>표 14"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-81",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 15",
+    "path": "본문>제2장>표 15",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '타이 어'→ '타이어'",
+        "path": "본문>제2장>표 15"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-82",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 16",
+    "path": "본문>제2장>표 16",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '베트남 어'→ '베트남어'",
+        "path": "본문>제2장>표 16"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-83",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 17",
+    "path": "본문>제2장>표 17",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제2장>표 17"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-84",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 18",
+    "path": "본문>제2장>표 18",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '네덜란드 어'→ '네덜란드어'",
+        "path": "본문>제2장>표 18"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-85",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 19",
+    "path": "본문>제2장>표 19",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '러시아 어'→ '러시아어', 표기 수정: 'Rostopchinya(Ростопчиня) 로스톱치냐'→ 'Rostopchina(Ростопчина) 로스톱치나'",
+        "path": "본문>제2장>표 19"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-86",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 2",
+    "path": "본문>제2장>표 2",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '에스파냐 어' → '에스파냐어'",
+        "path": "본문>제2장>표 2"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-87",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 3",
+    "path": "본문>제2장>표 3",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '이탈리아 어'→ '이탈리아어'",
+        "path": "본문>제2장>표 3"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-88",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 5",
+    "path": "본문>제2장>표 5",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "제목 수정, 중국어 음 표기의 제시 순서 조정, 웨이드 식 로마자 삭제, 표기 수정: 'you(ou, iu)'→ 'you(iou, iu)'",
+        "path": "본문>제2장>표 5"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-89",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 6",
+    "path": "본문>제2장>표 6",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '폴란드 어'→ '폴란드어'",
+        "path": "본문>제2장>표 6"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-90",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 7",
+    "path": "본문>제2장>표 7",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '체코 어'→ '체코어'",
+        "path": "본문>제2장>표 7"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-91",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 8",
+    "path": "본문>제2장>표 8",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '세르보크로아트 어'→ '세르보크로아트어'",
+        "path": "본문>제2장>표 8"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-92",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 9",
+    "path": "본문>제2장>표 9",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '루마니아 어'→ '루마니아어'",
+        "path": "본문>제2장>표 9"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-93",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제3장>제19절>",
+    "path": "본문>제3장>제19절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제3장>제19절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-94",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제3장>제3절>",
+    "path": "본문>제3장>제3절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어'→ '프랑스어'",
+        "path": "본문>제3장>제3절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0002-app-95",
+    "regulation": "표준어규정",
+    "title": "[부록·장 변경] 본문>제2장>표 4",
+    "path": "본문>제2장>표 4",
+    "history": [
+      {
+        "effective_date": "2014-12-05",
+        "notice": "",
+        "description": "일부 추가: 'ニャ ニュ ニョ / 냐 뉴 뇨 / 냐 뉴 뇨'",
+        "path": "본문>제2장>표 4"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-1",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>1.>(1)",
+    "path": "부록>1.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "용례 변경, [붙임 1]과 [붙임 2] 추가, [다만] 용어 수정",
+        "path": "부록>1.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-2",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>1.>(2)",
+    "path": "부록>1.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 변경",
+        "path": "부록>1.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-3",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>1.>(3)",
+    "path": "부록>1.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>1.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-4",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>1.>(4)",
+    "path": "부록>1.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 내용 삭제, 구조 변경, 표현 수정, 용례 추가 및  수정",
+        "path": "부록>1.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-5",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(1)",
+    "path": "부록>10.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>10.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-6",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(2)",
+    "path": "부록>10.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-7",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(3)",
+    "path": "부록>10.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-8",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(4)",
+    "path": "부록>10.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-9",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(5)",
+    "path": "부록>10.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-10",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>10.>(6)",
+    "path": "부록>10.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-11",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>11.>(1)",
+    "path": "부록>11.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>11.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-12",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>11.>(2)",
+    "path": "부록>11.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>11.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-13",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>12.>(1)",
+    "path": "부록>12.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>12.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-14",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>12.>(2)",
+    "path": "부록>12.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>12.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-15",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>12.>(3)",
+    "path": "부록>12.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>12.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-16",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>13.>",
+    "path": "부록>13.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>13.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-17",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>14.>",
+    "path": "부록>14.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>14.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-18",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>15.>",
+    "path": "부록>15.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 수정 및 보충",
+        "path": "부록>15.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-19",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>15.>[붙임]",
+    "path": "부록>15.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>15.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-20",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>16.>(1)",
+    "path": "부록>16.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-21",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>16.>(2)",
+    "path": "부록>16.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-22",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>17.>",
+    "path": "부록>17.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [붙임] 추가, 용례 추가 및 수정",
+        "path": "부록>17.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-23",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>18.>",
+    "path": "부록>18.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 일부 삭제, 용례 추가 및 수정",
+        "path": "부록>18.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-24",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>19.>(1)",
+    "path": "부록>19.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>19.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-25",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>19.>(2)",
+    "path": "부록>19.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가",
+        "path": "부록>19.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-26",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>2.>(1)",
+    "path": "부록>2.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>2.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-27",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>2.>(2)",
+    "path": "부록>2.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>2.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-28",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>2.>(3)",
+    "path": "부록>2.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>2.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-29",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>20.>(1)",
+    "path": "부록>20.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>20.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-30",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>20.>(2)",
+    "path": "부록>20.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경",
+        "path": "부록>20.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-31",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>(1)",
+    "path": "부록>21.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-32",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>(2)",
+    "path": "부록>21.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-33",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>(3)",
+    "path": "부록>21.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-34",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>(4)",
+    "path": "부록>21.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-35",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 1]",
+    "path": "부록>21.>[붙임 1]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 1] 추가",
+        "path": "부록>21.>[붙임 1]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-36",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 2]",
+    "path": "부록>21.>[붙임 2]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 2] 추가",
+        "path": "부록>21.>[붙임 2]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-37",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 3]",
+    "path": "부록>21.>[붙임 3]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 3] 추가",
+        "path": "부록>21.>[붙임 3]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-38",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>3.>(1)",
+    "path": "부록>3.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, [붙임] 내용 추가, 용례 추가 및 수정",
+        "path": "부록>3.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-39",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>3.>(2)",
+    "path": "부록>3.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정, 용례 수정",
+        "path": "부록>3.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-40",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>3.>(3)",
+    "path": "부록>3.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정",
+        "path": "부록>3.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-41",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>3.>(4)",
+    "path": "부록>3.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>3.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-42",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(1)",
+    "path": "부록>4.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "내용 일부 수정 및 보충, [다만] 추가, 용례 추가",
+        "path": "부록>4.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-43",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(10)",
+    "path": "부록>4.>(10)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(10)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-44",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(11)",
+    "path": "부록>4.>(11)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(11)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-45",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(12)",
+    "path": "부록>4.>(12)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정 및 삭제",
+        "path": "부록>4.>(12)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-46",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(13)",
+    "path": "부록>4.>(13)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, [붙임 1, 2] 추가, 용례 수정",
+        "path": "부록>4.>(13)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-47",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(14)",
+    "path": "부록>4.>(14)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(14)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-48",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(15)",
+    "path": "부록>4.>(15)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(15)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-49",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(2)",
+    "path": "부록>4.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정",
+        "path": "부록>4.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-50",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(3)",
+    "path": "부록>4.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-51",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(4)",
+    "path": "부록>4.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-52",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(5)",
+    "path": "부록>4.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>4.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-53",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(6)",
+    "path": "부록>4.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-54",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(7)",
+    "path": "부록>4.>(7)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 수정",
+        "path": "부록>4.>(7)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-55",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(8)",
+    "path": "부록>4.>(8)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(8)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-56",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>(9)",
+    "path": "부록>4.>(9)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 보충, 용례 추가 및 수정",
+        "path": "부록>4.>(9)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-57",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>4.>[붙임]",
+    "path": "부록>4.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>4.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-58",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>5.>(1)",
+    "path": "부록>5.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>5.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-59",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>5.>(2)",
+    "path": "부록>5.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>5.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-60",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>5.>(3)",
+    "path": "부록>5.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>5.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-61",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>6.>(1)",
+    "path": "부록>6.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-62",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>6.>(2)",
+    "path": "부록>6.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>6.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-63",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>6.>(3)",
+    "path": "부록>6.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 용례 수정",
+        "path": "부록>6.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-64",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>6.>(4)",
+    "path": "부록>6.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-65",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>6.>[붙임]",
+    "path": "부록>6.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>6.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-66",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>7.>(1)",
+    "path": "부록>7.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>7.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-67",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>7.>(2)",
+    "path": "부록>7.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-68",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>7.>(3)",
+    "path": "부록>7.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-69",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>7.>[붙임]",
+    "path": "부록>7.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>7.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-70",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>8.>(1)",
+    "path": "부록>8.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 수정",
+        "path": "부록>8.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-71",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>8.>(2)",
+    "path": "부록>8.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가 및 수정",
+        "path": "부록>8.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-72",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>9.>(1)",
+    "path": "부록>9.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>9.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-73",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>9.>(2)",
+    "path": "부록>9.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>9.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-74",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 부록>문장 부호>",
+    "path": "부록>문장 부호>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "총칙 내용 보충",
+        "path": "부록>문장 부호>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-75",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 1",
+    "path": "본문>제2장>표 1",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어' → '프랑스어'",
+        "path": "본문>제2장>표 1"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-76",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 10",
+    "path": "본문>제2장>표 10",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '헝가리 어'→ '헝가리어'",
+        "path": "본문>제2장>표 10"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-77",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 11",
+    "path": "본문>제2장>표 11",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '스웨덴 어'→ '스웨덴어'",
+        "path": "본문>제2장>표 11"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-78",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 12",
+    "path": "본문>제2장>표 12",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '노르웨이 어'→ '노르웨이어'",
+        "path": "본문>제2장>표 12"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-79",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 13",
+    "path": "본문>제2장>표 13",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '덴마크 어'→ '덴마크어'",
+        "path": "본문>제2장>표 13"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-80",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 14",
+    "path": "본문>제2장>표 14",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '말레이인도네시아 어'→ '말레이인도네시아어'",
+        "path": "본문>제2장>표 14"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-81",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 15",
+    "path": "본문>제2장>표 15",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '타이 어'→ '타이어'",
+        "path": "본문>제2장>표 15"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-82",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 16",
+    "path": "본문>제2장>표 16",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '베트남 어'→ '베트남어'",
+        "path": "본문>제2장>표 16"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-83",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 17",
+    "path": "본문>제2장>표 17",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제2장>표 17"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-84",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 18",
+    "path": "본문>제2장>표 18",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '네덜란드 어'→ '네덜란드어'",
+        "path": "본문>제2장>표 18"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-85",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 19",
+    "path": "본문>제2장>표 19",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '러시아 어'→ '러시아어', 표기 수정: 'Rostopchinya(Ростопчиня) 로스톱치냐'→ 'Rostopchina(Ростопчина) 로스톱치나'",
+        "path": "본문>제2장>표 19"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-86",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 2",
+    "path": "본문>제2장>표 2",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '에스파냐 어' → '에스파냐어'",
+        "path": "본문>제2장>표 2"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-87",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 3",
+    "path": "본문>제2장>표 3",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '이탈리아 어'→ '이탈리아어'",
+        "path": "본문>제2장>표 3"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-88",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 5",
+    "path": "본문>제2장>표 5",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "제목 수정, 중국어 음 표기의 제시 순서 조정, 웨이드 식 로마자 삭제, 표기 수정: 'you(ou, iu)'→ 'you(iou, iu)'",
+        "path": "본문>제2장>표 5"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-89",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 6",
+    "path": "본문>제2장>표 6",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '폴란드 어'→ '폴란드어'",
+        "path": "본문>제2장>표 6"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-90",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 7",
+    "path": "본문>제2장>표 7",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '체코 어'→ '체코어'",
+        "path": "본문>제2장>표 7"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-91",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 8",
+    "path": "본문>제2장>표 8",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '세르보크로아트 어'→ '세르보크로아트어'",
+        "path": "본문>제2장>표 8"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-92",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 9",
+    "path": "본문>제2장>표 9",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '루마니아 어'→ '루마니아어'",
+        "path": "본문>제2장>표 9"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-93",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제3장>제19절>",
+    "path": "본문>제3장>제19절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제3장>제19절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-94",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제3장>제3절>",
+    "path": "본문>제3장>제3절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어'→ '프랑스어'",
+        "path": "본문>제3장>제3절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0003-app-95",
+    "regulation": "외래어표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 4",
+    "path": "본문>제2장>표 4",
+    "history": [
+      {
+        "effective_date": "2014-12-05",
+        "notice": "",
+        "description": "일부 추가: 'ニャ ニュ ニョ / 냐 뉴 뇨 / 냐 뉴 뇨'",
+        "path": "본문>제2장>표 4"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-1",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>1.>(1)",
+    "path": "부록>1.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "용례 변경, [붙임 1]과 [붙임 2] 추가, [다만] 용어 수정",
+        "path": "부록>1.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-2",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>1.>(2)",
+    "path": "부록>1.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 변경",
+        "path": "부록>1.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-3",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>1.>(3)",
+    "path": "부록>1.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>1.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-4",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>1.>(4)",
+    "path": "부록>1.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 내용 삭제, 구조 변경, 표현 수정, 용례 추가 및  수정",
+        "path": "부록>1.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-5",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(1)",
+    "path": "부록>10.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>10.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-6",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(2)",
+    "path": "부록>10.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-7",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(3)",
+    "path": "부록>10.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-8",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(4)",
+    "path": "부록>10.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>10.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-9",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(5)",
+    "path": "부록>10.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-10",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>10.>(6)",
+    "path": "부록>10.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>10.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-11",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>11.>(1)",
+    "path": "부록>11.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>11.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-12",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>11.>(2)",
+    "path": "부록>11.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>11.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-13",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>12.>(1)",
+    "path": "부록>12.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>12.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-14",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>12.>(2)",
+    "path": "부록>12.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>12.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-15",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>12.>(3)",
+    "path": "부록>12.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>12.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-16",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>13.>",
+    "path": "부록>13.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>13.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-17",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>14.>",
+    "path": "부록>14.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "부호 추가, 내용 수정 및 보충",
+        "path": "부록>14.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-18",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>15.>",
+    "path": "부록>15.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 수정 및 보충",
+        "path": "부록>15.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-19",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>15.>[붙임]",
+    "path": "부록>15.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>15.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-20",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>16.>(1)",
+    "path": "부록>16.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-21",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>16.>(2)",
+    "path": "부록>16.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>16.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-22",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>17.>",
+    "path": "부록>17.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [붙임] 추가, 용례 추가 및 수정",
+        "path": "부록>17.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-23",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>18.>",
+    "path": "부록>18.>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 일부 삭제, 용례 추가 및 수정",
+        "path": "부록>18.>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-24",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>19.>(1)",
+    "path": "부록>19.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>19.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-25",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>19.>(2)",
+    "path": "부록>19.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가",
+        "path": "부록>19.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-26",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>2.>(1)",
+    "path": "부록>2.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>2.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-27",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>2.>(2)",
+    "path": "부록>2.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>2.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-28",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>2.>(3)",
+    "path": "부록>2.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>2.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-29",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>20.>(1)",
+    "path": "부록>20.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>20.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-30",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>20.>(2)",
+    "path": "부록>20.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경",
+        "path": "부록>20.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-31",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>(1)",
+    "path": "부록>21.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-32",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>(2)",
+    "path": "부록>21.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정",
+        "path": "부록>21.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-33",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>(3)",
+    "path": "부록>21.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-34",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>(4)",
+    "path": "부록>21.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>21.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-35",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 1]",
+    "path": "부록>21.>[붙임 1]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 1] 추가",
+        "path": "부록>21.>[붙임 1]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-36",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 2]",
+    "path": "부록>21.>[붙임 2]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 2] 추가",
+        "path": "부록>21.>[붙임 2]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-37",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>21.>[붙임 3]",
+    "path": "부록>21.>[붙임 3]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임 3] 추가",
+        "path": "부록>21.>[붙임 3]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-38",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>3.>(1)",
+    "path": "부록>3.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, [붙임] 내용 추가, 용례 추가 및 수정",
+        "path": "부록>3.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-39",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>3.>(2)",
+    "path": "부록>3.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정, 용례 수정",
+        "path": "부록>3.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-40",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>3.>(3)",
+    "path": "부록>3.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정",
+        "path": "부록>3.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-41",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>3.>(4)",
+    "path": "부록>3.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>3.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-42",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(1)",
+    "path": "부록>4.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "내용 일부 수정 및 보충, [다만] 추가, 용례 추가",
+        "path": "부록>4.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-43",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(10)",
+    "path": "부록>4.>(10)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(10)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-44",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(11)",
+    "path": "부록>4.>(11)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(11)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-45",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(12)",
+    "path": "부록>4.>(12)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정 및 삭제",
+        "path": "부록>4.>(12)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-46",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(13)",
+    "path": "부록>4.>(13)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, [붙임 1, 2] 추가, 용례 수정",
+        "path": "부록>4.>(13)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-47",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(14)",
+    "path": "부록>4.>(14)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(14)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-48",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(15)",
+    "path": "부록>4.>(15)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(15)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-49",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(2)",
+    "path": "부록>4.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 수정",
+        "path": "부록>4.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-50",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(3)",
+    "path": "부록>4.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-51",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(4)",
+    "path": "부록>4.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 수정",
+        "path": "부록>4.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-52",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(5)",
+    "path": "부록>4.>(5)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>4.>(5)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-53",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(6)",
+    "path": "부록>4.>(6)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정",
+        "path": "부록>4.>(6)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-54",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(7)",
+    "path": "부록>4.>(7)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 일부 수정, 용례 수정",
+        "path": "부록>4.>(7)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-55",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(8)",
+    "path": "부록>4.>(8)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>4.>(8)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-56",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>(9)",
+    "path": "부록>4.>(9)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 내용 보충, 용례 추가 및 수정",
+        "path": "부록>4.>(9)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-57",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>4.>[붙임]",
+    "path": "부록>4.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>4.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-58",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>5.>(1)",
+    "path": "부록>5.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정 및 삭제",
+        "path": "부록>5.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-59",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>5.>(2)",
+    "path": "부록>5.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, [다만] 추가, 용례 추가 및 수정",
+        "path": "부록>5.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-60",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>5.>(3)",
+    "path": "부록>5.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>5.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-61",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>6.>(1)",
+    "path": "부록>6.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-62",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>6.>(2)",
+    "path": "부록>6.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>6.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-63",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>6.>(3)",
+    "path": "부록>6.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 용례 수정",
+        "path": "부록>6.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-64",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>6.>(4)",
+    "path": "부록>6.>(4)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "구조 변경, 표현 수정, 용례 추가 및 수정",
+        "path": "부록>6.>(4)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-65",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>6.>[붙임]",
+    "path": "부록>6.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>6.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-66",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>7.>(1)",
+    "path": "부록>7.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>7.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-67",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>7.>(2)",
+    "path": "부록>7.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-68",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>7.>(3)",
+    "path": "부록>7.>(3)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "조항 신설",
+        "path": "부록>7.>(3)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-69",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>7.>[붙임]",
+    "path": "부록>7.>[붙임]",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "[붙임] 추가",
+        "path": "부록>7.>[붙임]"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-70",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>8.>(1)",
+    "path": "부록>8.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 수정",
+        "path": "부록>8.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-71",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>8.>(2)",
+    "path": "부록>8.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 추가 및 수정",
+        "path": "부록>8.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-72",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>9.>(1)",
+    "path": "부록>9.>(1)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 수정, 용례 수정",
+        "path": "부록>9.>(1)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-73",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>9.>(2)",
+    "path": "부록>9.>(2)",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "표현 일부 수정, 용례 추가 및 수정",
+        "path": "부록>9.>(2)"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-74",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 부록>문장 부호>",
+    "path": "부록>문장 부호>",
+    "history": [
+      {
+        "effective_date": "2015-01-01",
+        "notice": "",
+        "description": "총칙 내용 보충",
+        "path": "부록>문장 부호>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-75",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 1",
+    "path": "본문>제2장>표 1",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어' → '프랑스어'",
+        "path": "본문>제2장>표 1"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-76",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 10",
+    "path": "본문>제2장>표 10",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '헝가리 어'→ '헝가리어'",
+        "path": "본문>제2장>표 10"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-77",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 11",
+    "path": "본문>제2장>표 11",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '스웨덴 어'→ '스웨덴어'",
+        "path": "본문>제2장>표 11"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-78",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 12",
+    "path": "본문>제2장>표 12",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '노르웨이 어'→ '노르웨이어'",
+        "path": "본문>제2장>표 12"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-79",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 13",
+    "path": "본문>제2장>표 13",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '덴마크 어'→ '덴마크어'",
+        "path": "본문>제2장>표 13"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-80",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 14",
+    "path": "본문>제2장>표 14",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '말레이인도네시아 어'→ '말레이인도네시아어'",
+        "path": "본문>제2장>표 14"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-81",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 15",
+    "path": "본문>제2장>표 15",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '타이 어'→ '타이어'",
+        "path": "본문>제2장>표 15"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-82",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 16",
+    "path": "본문>제2장>표 16",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '베트남 어'→ '베트남어'",
+        "path": "본문>제2장>표 16"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-83",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 17",
+    "path": "본문>제2장>표 17",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제2장>표 17"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-84",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 18",
+    "path": "본문>제2장>표 18",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '네덜란드 어'→ '네덜란드어'",
+        "path": "본문>제2장>표 18"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-85",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 19",
+    "path": "본문>제2장>표 19",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '러시아 어'→ '러시아어', 표기 수정: 'Rostopchinya(Ростопчиня) 로스톱치냐'→ 'Rostopchina(Ростопчина) 로스톱치나'",
+        "path": "본문>제2장>표 19"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-86",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 2",
+    "path": "본문>제2장>표 2",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '에스파냐 어' → '에스파냐어'",
+        "path": "본문>제2장>표 2"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-87",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 3",
+    "path": "본문>제2장>표 3",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '이탈리아 어'→ '이탈리아어'",
+        "path": "본문>제2장>표 3"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-88",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 5",
+    "path": "본문>제2장>표 5",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "제목 수정, 중국어 음 표기의 제시 순서 조정, 웨이드 식 로마자 삭제, 표기 수정: 'you(ou, iu)'→ 'you(iou, iu)'",
+        "path": "본문>제2장>표 5"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-89",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 6",
+    "path": "본문>제2장>표 6",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '폴란드 어'→ '폴란드어'",
+        "path": "본문>제2장>표 6"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-90",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 7",
+    "path": "본문>제2장>표 7",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '체코 어'→ '체코어'",
+        "path": "본문>제2장>표 7"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-91",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 8",
+    "path": "본문>제2장>표 8",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '세르보크로아트 어'→ '세르보크로아트어'",
+        "path": "본문>제2장>표 8"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-92",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 9",
+    "path": "본문>제2장>표 9",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '루마니아 어'→ '루마니아어'",
+        "path": "본문>제2장>표 9"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-93",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제3장>제19절>",
+    "path": "본문>제3장>제19절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '포르투갈 어'→ '포르투갈어'",
+        "path": "본문>제3장>제19절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-94",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제3장>제3절>",
+    "path": "본문>제3장>제3절>",
+    "history": [
+      {
+        "effective_date": "2017-03-28",
+        "notice": "",
+        "description": "띄어쓰기 수정: '프랑스 어'→ '프랑스어'",
+        "path": "본문>제3장>제3절>"
+      }
+    ]
+  },
+  {
+    "id": "kornorms:0004-app-95",
+    "regulation": "로마자표기법",
+    "title": "[부록·장 변경] 본문>제2장>표 4",
+    "path": "본문>제2장>표 4",
+    "history": [
+      {
+        "effective_date": "2014-12-05",
+        "notice": "",
+        "description": "일부 추가: 'ニャ ニュ ニョ / 냐 뉴 뇨 / 냐 뉴 뇨'",
+        "path": "본문>제2장>표 4"
+      }
+    ]
+  }
+]

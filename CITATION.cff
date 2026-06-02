@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Korean Lexicon Ontology Explorer"
+abstract: >-
+  A web-based exploration interface for an integrated Korean lexical ontology
+  combining four open language resources from the National Institute of the
+  Korean Language: Standard Korean Dictionary (stdict), Urimalsam, Korean
+  Learner's Dictionary (krdict), and the Korean Language Norms (kornorms).
+  Provides category tree, knowledge graph, norm browser, and unified search
+  over 4,545 curated entries (Tier A) and 1.7M headwords (Tier B).
+type: software
+authors:
+  - family-names: Seo
+    given-names: Jaehyung
+    orcid: ""
+keywords:
+  - korean-language
+  - lexical-ontology
+  - knowledge-graph
+  - nlp
+  - language-resource
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/J-Seo/kocca-ontology-explorer-public"
+url: "https://kocca-ontology-explorer.vercel.app"
+version: "1.0.0"
+date-released: "2026-06-02"
