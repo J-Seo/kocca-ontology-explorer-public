@@ -1,5 +1,5 @@
 /**
- * Tier A 인메모리 로더 — 17개 JSON을 일괄 import해 카테고리별/단일 검색을 제공한다.
+ * Tier A 인메모리 로더 — 17개 카테고리(19종 JSON)를 일괄 import해 카테고리별/단일 검색을 제공한다.
  */
 import type { OntologyEntry, GraphRelations, CategoryMeta } from '../types';
 

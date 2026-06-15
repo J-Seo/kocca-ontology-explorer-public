@@ -1,11 +1,28 @@
 'use client';
-import { useState, useMemo } from 'react';
+import { Suspense, useState, useMemo } from 'react';
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 import { getCategories, getEntriesByCategory } from '@/lib/ontology/loader';
 
 export default function TreePage() {
+  // useSearchParams는 Suspense 경계가 필요하다 (정적 생성 호환).
+  return (
+    <Suspense fallback={null}>
+      <TreeInner />
+    </Suspense>
+  );
+}
+
+function TreeInner() {
   const categories = useMemo(() => getCategories(), []);
-  const [selected, setSelected] = useState<string>(categories[0]?.id ?? 'spelling');
+  // 대시보드의 /tree?cat=<id> 딥링크를 반영해 해당 카테고리로 시작.
+  const searchParams = useSearchParams();
+  const catParam = searchParams.get('cat');
+  const initial =
+    catParam && categories.some((c) => c.id === catParam)
+      ? catParam
+      : categories[0]?.id ?? 'spelling';
+  const [selected, setSelected] = useState<string>(initial);
   const [filter, setFilter] = useState('');
 
   const entries = useMemo(() => {
@@ -28,7 +45,7 @@ export default function TreePage() {
       <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-6">
         {/* 좌: 카테고리 목록 */}
         <aside className="border border-neutral-800 rounded-lg bg-neutral-900 p-2 h-fit sticky top-20">
-          {categories
+          {[...categories]
             .sort((a, b) => b.count - a.count)
             .map((c) => (
               <button
@@ -68,7 +85,8 @@ export default function TreePage() {
               </p>
             </div>
             <input
-              type="text"
+              type="search"
+              aria-label="카테고리 내 검색"
               placeholder="카테고리 내 검색..."
               value={filter}
               onChange={(e) => setFilter(e.target.value)}

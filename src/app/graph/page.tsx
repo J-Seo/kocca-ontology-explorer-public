@@ -201,7 +201,8 @@ export default function GraphPage() {
               {stats.nodes} / {graph.nodes.length} 노드 · {stats.edges} 엣지
             </span>
             <input
-              type="text"
+              type="search"
+              aria-label="그래프 노드 검색"
               placeholder="그래프 내 검색 (노드 라벨)..."
               value={searchQ}
               onChange={(e) => setSearchQ(e.target.value)}
@@ -315,9 +316,13 @@ function EmptyPanel() {
           이 그래프의 목적
         </h3>
         <p className="text-xs leading-relaxed text-neutral-400">
-          KoCCA 멀티에이전트 시스템(지식·교정·채점 3 에이전트 + 온톨로지 오케스트레이터)이
+          멀티에이전트 시스템(지식·교정·채점 3 에이전트 + 온톨로지 오케스트레이터)이
           질의에 답할 때 어떤 ontology 노드를 <strong className="text-white">Tool Calling</strong>처럼
           가져오고, 응답의 근거가 어떤 규칙에서 비롯됐는지 추적하기 위한 시각화 도구입니다.
+        </p>
+        <p className="text-[11px] leading-relaxed text-neutral-500 mt-2">
+          ※ 이 매핑은 <strong className="text-neutral-300">개념도</strong>입니다.
+          실제 에이전트 런타임(LLM·오케스트레이터)은 이 저장소에 포함되어 있지 않습니다.
         </p>
       </div>
 

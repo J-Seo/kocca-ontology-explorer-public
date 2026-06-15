@@ -3,7 +3,7 @@
  *
  * 사전 준비:
  *   1. .env.local에 TURSO_DATABASE_URL + TURSO_AUTH_TOKEN 설정
- *   2. demo/src/data/lexicon/lexicon.sqlite 존재 확인
+ *   2. src/data/lexicon/lexicon.sqlite 존재 확인 (bash scripts/download-tierB.sh)
  *
  * 실행:
  *   npm run migrate:turso
@@ -20,8 +20,9 @@ import { DatabaseSync } from 'node:sqlite';
 import fs from 'node:fs';
 import path from 'node:path';
 
+// download-tierB.sh가 받는 위치와 동일해야 한다. 다른 경로면 LEXICON_SQLITE_PATH로 지정.
 const LOCAL_DB = process.env.LEXICON_SQLITE_PATH
-  ?? path.resolve(process.cwd(), '../demo/src/data/lexicon/lexicon.sqlite');
+  ?? path.resolve(process.cwd(), 'src/data/lexicon/lexicon.sqlite');
 
 async function main() {
   // 환경변수 확인

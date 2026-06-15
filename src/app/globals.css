@@ -24,6 +24,13 @@ html, body {
   box-sizing: border-box;
 }
 
+/* 키보드 포커스 표시 — 접근성(WCAG 2.4.7). 마우스 클릭에는 나타나지 않음. */
+:focus-visible {
+  outline: 2px solid #60a5fa;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
 /* ReactFlow 다크 테마 */
 .react-flow {
   background: var(--background);

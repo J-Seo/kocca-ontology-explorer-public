@@ -6,7 +6,14 @@ interface Props { params: Promise<{ id: string }> }
 
 export default async function EntryPage({ params }: Props) {
   const { id } = await params;
-  const decoded = decodeURIComponent(id);
+  // 잘못된 퍼센트 인코딩(예: /entry/%)은 decodeURIComponent가 URIError를 던진다.
+  // 그대로 두면 500이 나므로 404로 처리한다.
+  let decoded = id;
+  try {
+    decoded = decodeURIComponent(id);
+  } catch {
+    notFound();
+  }
   const entry = getEntry(decoded);
   if (!entry) notFound();
 

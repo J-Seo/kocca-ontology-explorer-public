@@ -1,12 +1,9 @@
 /**
  * 멀티에이전트 시스템과 온톨로지의 매핑.
  *
- * 이 사이트는 단순 시각화가 아니라 **멀티에이전트 시스템의 Tool Calling +
- * Graph RAG 근거 추적용** 도구이다. 각 노드/카테고리가 어떤 에이전트에서
- * 어떻게 호출되는지 명시한다.
- *
- * 출처: demo/src/lib/agents/ontology-orchestrator.ts의 determineCategories()
- *      + 각 에이전트의 시스템 프롬프트
+ * 이 매핑은 멀티에이전트 시스템(지식·교정·채점)이 각 온톨로지 노드/카테고리를
+ * 어떻게 참조할지 보여주는 **개념도**다. 실제 에이전트 런타임은 이 저장소에
+ * 포함되어 있지 않으며, 아래 AGENTS 배열은 정적 라벨·색상·카테고리 매핑일 뿐이다.
  */
 
 export type AgentType = 'knowledge' | 'correction' | 'scoring';

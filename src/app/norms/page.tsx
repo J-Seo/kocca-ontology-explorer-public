@@ -53,7 +53,8 @@ export default function NormsPage() {
           ))}
         </div>
         <input
-          type="text"
+          type="search"
+          aria-label="어문 규범 조항 검색"
           placeholder="조항 번호·제목·본문 검색..."
           value={filter}
           onChange={(e) => setFilter(e.target.value)}

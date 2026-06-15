@@ -14,7 +14,11 @@
 | 표준국어대사전 (stdict) | 436,574 | 국립국어원 (https://stdict.korean.go.kr) |
 | 우리말샘 (urimalsam) | 1,204,559 | 국립국어원 (https://opendict.korean.go.kr) |
 | 한국어기초사전 (krdict) | 53,672 | 국립국어원 (https://krdict.korean.go.kr) |
-| 한국어 어문 규범 (kornorms) | 110조항 + 380부록 + 80,115용례 | 국립국어원 (https://kornorms.korean.go.kr) |
+| 한국어 어문 규범 (kornorms) | 490조항(4종) + 80,115용례 | 국립국어원 (https://kornorms.korean.go.kr) |
+
+> 어문 규범 조항 수 안내: Tier B의 `norm` 테이블은 4종 규범(한글맞춤법 152 · 표준어규정 125 ·
+> 외래어표기법 110 · 로마자표기법 103) 합계 **490개 조항**입니다. Tier A에 별도로 들어가는
+> "110개 핵심 조항 + 부록 변경 380건"과는 다른 집계이며, 110+380=490은 우연의 일치입니다.
 
 ## 재이용 시 의무 사항
 
@@ -32,9 +36,11 @@
 
 본 저장소가 원자료에 가한 주요 가공은 다음과 같습니다.
 
-- 17개 의미 카테고리 분류 (vocabulary.json)
-- 어문 규범 110조항 + 부록 변경 380건 구조화 (kornorms-articles.json, kornorms-appendix-history.json)
-- 자원 간 관계 그래프(259 노드 / 263 엣지) 생성 (graph-relations.json)
+- 17개 의미 카테고리 분류 (src/data/ontology/ 내 17개 JSON 파일)
+- Tier A 어문 규범 구조화: 핵심 110개 조항(kornorms-articles.json) + 부록 변경 이력 380건
+  (kornorms-appendix-history.json) — 이 380건은 조항이 아니라 개정 이력 레코드이며,
+  Tier B의 490개 조항 테이블과는 별개입니다.
+- 자원 간 관계 그래프(259 노드 / 269 엣지) 생성 (graph-relations.json)
 - 표제어 검색을 위한 SQLite 인덱싱 (lexicon.sqlite)
 - 외래어/로마자 용례 80,115건 정규화
 

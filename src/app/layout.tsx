@@ -3,9 +3,9 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'KoCCA 국어지식 온톨로지 탐색기',
+  title: 'KoCCA 국어지식 온톨로지 탐색기 (비공식)',
   description:
-    '국립국어원 4자원(표준국어대사전·우리말샘·한국어기초사전·어문 규범) 통합 + 멀티에이전트 시스템 연동 온톨로지의 계층 구조·검색·시각화',
+    '국립국어원 공개 4자원(표준국어대사전·우리말샘·한국어기초사전·어문 규범)을 통합한 온톨로지를 검색·시각화하는 비공식 탐색 도구. 국립국어원/KOCCA 공식 서비스가 아닙니다.',
 };
 
 const NAV = [
@@ -37,7 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               ))}
             </div>
             <div className="ml-auto text-xs text-neutral-500">
-              CC-BY-SA 2.0 KR · 국립국어원
+              비공식 · CC-BY-SA 2.0 KR · 출처: 국립국어원
             </div>
           </div>
         </nav>

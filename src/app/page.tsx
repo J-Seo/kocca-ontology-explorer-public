@@ -16,8 +16,13 @@ export default async function Home() {
           국어지식 온톨로지 탐색기
         </h1>
         <p className="text-neutral-400 max-w-3xl">
-          KoCCA 2026 멀티에이전트 시스템에 연동된 국립국어원 4자원 통합 온톨로지.
+          국립국어원 4자원을 통합한 온톨로지를 검색·탐색하는 도구입니다.
           Tier A 인메모리 {ONTOLOGY_TOTAL.toLocaleString()}건 + Tier B SQLite/Turso 170만 표제어.
+        </p>
+        <p className="text-neutral-500 text-sm max-w-3xl mt-2">
+          비공식 프로젝트입니다 · Unofficial — 국립국어원/KOCCA의 공식 서비스가 아니며,
+          공개 언어자원을 가공한 것입니다. (멀티에이전트 시스템과의 연계를 상정해 설계했으나
+          에이전트 런타임은 이 저장소에 포함되지 않습니다.)
         </p>
       </header>
 
@@ -63,7 +68,7 @@ export default async function Home() {
       <section className="mb-12">
         <h2 className="text-xl font-semibold text-white mb-4">카테고리 분포</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2">
-          {categories
+          {[...categories]
             .sort((a, b) => b.count - a.count)
             .map((c) => (
               <Link
@@ -114,7 +119,7 @@ export default async function Home() {
         <QuickLink
           href="/tree"
           title="카테고리 트리"
-          description="16 카테고리 + 어문 규범 드릴다운"
+          description="17개 카테고리 드릴다운 (어문 규범 포함)"
         />
         <QuickLink
           href="/graph"

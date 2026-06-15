@@ -26,20 +26,24 @@ export default function SearchPage() {
   const [loadingMore, setLoadingMore] = useState(false);
   const [page, setPage] = useState(0);
   const timer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // 요청 경쟁 방지 — 가장 최근 요청의 응답만 반영한다 (느린 이전 응답이 덮어쓰지 않게).
+  const reqId = useRef(0);
 
   useEffect(() => {
     if (!q.trim()) { setData(null); setPage(0); return; }
     if (timer.current) clearTimeout(timer.current);
     timer.current = setTimeout(async () => {
+      const myId = ++reqId.current;
       setLoading(true);
       setPage(0);
       try {
         const params = new URLSearchParams({ q, tier });
         if (category) params.set('category', category);
         const r = await fetch(`/api/search?${params}`);
-        setData(await r.json());
+        const json = await r.json();
+        if (myId === reqId.current) setData(json);
       } finally {
-        setLoading(false);
+        if (myId === reqId.current) setLoading(false);
       }
     }, 300);
     return () => { if (timer.current) clearTimeout(timer.current); };
@@ -47,6 +51,7 @@ export default function SearchPage() {
 
   async function loadMore() {
     if (!data || !data.has_more || loadingMore) return;
+    const myId = ++reqId.current;
     setLoadingMore(true);
     try {
       const nextPage = page + 1;
@@ -54,6 +59,7 @@ export default function SearchPage() {
       if (category) params.set('category', category);
       const r = await fetch(`/api/search?${params}`);
       const more: SearchResponse = await r.json();
+      if (myId !== reqId.current) return; // 그 사이 새 검색이 시작됐으면 무시
       setData((prev) =>
         prev
           ? {
@@ -66,7 +72,7 @@ export default function SearchPage() {
       );
       setPage(nextPage);
     } finally {
-      setLoadingMore(false);
+      if (myId === reqId.current) setLoadingMore(false);
     }
   }
 
@@ -76,8 +82,9 @@ export default function SearchPage() {
 
       <div className="mb-6 space-y-3">
         <input
-          type="text"
+          type="search"
           autoFocus
+          aria-label="검색어 입력"
           placeholder="키워드, 규칙 번호, 표제어 등을 입력하세요 (예: 사이시옷, 한글 맞춤법 제30항, 카페)"
           value={q}
           onChange={(e) => setQ(e.target.value)}
@@ -102,6 +109,7 @@ export default function SearchPage() {
           <select
             value={category}
             onChange={(e) => setCategory(e.target.value)}
+            aria-label="카테고리 필터"
             className="px-2 py-1 bg-neutral-900 border border-neutral-700 rounded text-xs text-white"
           >
             <option value="">전체</option>
@@ -130,7 +138,7 @@ export default function SearchPage() {
                 Tier A — 인메모리 ({data.tier_a.length}건)
               </h2>
               <div className="space-y-2">
-                {data.tier_a.map(({ entry, score }) => (
+                {data.tier_a.map(({ entry }) => (
                   <Link
                     key={entry.id}
                     href={`/entry/${encodeURIComponent(entry.id)}`}
@@ -143,7 +151,6 @@ export default function SearchPage() {
                         {entry.rule_number && (
                           <span className="font-mono text-blue-400">{entry.rule_number}</span>
                         )}
-                        <span className="font-mono text-neutral-600">score {score}</span>
                       </div>
                     </div>
                     <p className="text-sm text-neutral-400 line-clamp-2">

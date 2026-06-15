@@ -7,7 +7,10 @@
 
 ## 0. 사전 요구사항
 
-- **Node.js** ≥ 20
+- **Node.js** ≥ 20 (앱 실행·빌드용)
+  - 단, `npm run migrate:turso`는 내장 `node:sqlite` 모듈을 사용하므로 **Node ≥ 22.13**
+    (또는 ≥ 23.4)이 필요합니다. 그 이하 버전에서는 `Cannot find module 'node:sqlite'`로
+    실패하니, 마이그레이션을 직접 돌릴 때는 최신 LTS를 권장합니다.
 - **npm** ≥ 10 (또는 pnpm / yarn)
 - **Hugging Face CLI** (Tier B 데이터 다운로드용)
   ```bash
@@ -105,8 +108,8 @@ npm run migrate:turso
 완료 후 검증:
 
 ```bash
-turso db shell kocca-ontology "SELECT COUNT(*) FROM lexicon_entries;"
-# → 약 1,694,805
+turso db shell kocca-ontology "SELECT COUNT(*) FROM lex;"
+# → 1,694,805 (표제어 테이블 이름은 lex 입니다)
 ```
 
 ## 4. 로컬 개발 서버
@@ -150,8 +153,8 @@ git push -u origin main
 node scripts/e2e-prod.mjs https://<your-domain>.vercel.app
 ```
 
-대시보드 / 트리 / 그래프 / 규범 / 검색 6개 페이지 + 주요 API의 응답·캐싱·
-Tier B 카운트를 일괄 점검합니다.
+대시보드 / 트리 / 그래프 / 규범 / 검색 5개 페이지 + 주요 API의 응답·캐싱·
+Tier B 카운트를 일괄 점검합니다 (총 20개 시나리오).
 
 ---
 

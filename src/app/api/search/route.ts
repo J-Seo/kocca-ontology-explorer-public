@@ -16,7 +16,8 @@ const TIER_A_LIMIT = 30;
 
 export async function GET(req: NextRequest) {
   const url = new URL(req.url);
-  const q = url.searchParams.get('q')?.trim() ?? '';
+  // NFC 정규화로 NFD 입력(맥OS 붙여넣기 등)도 일관되게 매칭.
+  const q = (url.searchParams.get('q') ?? '').normalize('NFC').trim();
   const tier = url.searchParams.get('tier') ?? 'both';
   const category = url.searchParams.get('category') ?? undefined;
   const page = Math.max(0, Number(url.searchParams.get('page') ?? '0') || 0);
