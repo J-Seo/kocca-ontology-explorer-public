@@ -1,29 +1,19 @@
 'use client';
-import { Suspense, useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
-import { useSearchParams } from 'next/navigation';
 import { getCategories, getEntriesByCategory } from '@/lib/ontology/loader';
 
 export default function TreePage() {
-  // useSearchParams는 Suspense 경계가 필요하다 (정적 생성 호환).
-  return (
-    <Suspense fallback={null}>
-      <TreeInner />
-    </Suspense>
-  );
-}
-
-function TreeInner() {
   const categories = useMemo(() => getCategories(), []);
-  // 대시보드의 /tree?cat=<id> 딥링크를 반영해 해당 카테고리로 시작.
-  const searchParams = useSearchParams();
-  const catParam = searchParams.get('cat');
-  const initial =
-    catParam && categories.some((c) => c.id === catParam)
-      ? catParam
-      : categories[0]?.id ?? 'spelling';
-  const [selected, setSelected] = useState<string>(initial);
+  const [selected, setSelected] = useState<string>(categories[0]?.id ?? 'spelling');
   const [filter, setFilter] = useState('');
+
+  // 대시보드의 /tree?cat=<id> 딥링크 반영. SSR을 유지하려고 useSearchParams 대신
+  // 마운트 후 클라이언트에서 쿼리스트링을 읽어 선택을 갱신한다.
+  useEffect(() => {
+    const cat = new URLSearchParams(window.location.search).get('cat');
+    if (cat && categories.some((c) => c.id === cat)) setSelected(cat);
+  }, [categories]);
 
   const entries = useMemo(() => {
     const all = getEntriesByCategory(selected);
