@@ -57,6 +57,28 @@ export default async function EntryPage({ params }: Props) {
         </div>
       </section>
 
+      {entry.question && (
+        <section className="mb-8">
+          <h2 className="text-sm font-semibold text-neutral-400 uppercase tracking-wide mb-3">
+            질문
+          </h2>
+          <div className="p-4 bg-neutral-900 border border-neutral-800 rounded-lg text-neutral-200 leading-relaxed whitespace-pre-wrap">
+            {entry.question}
+          </div>
+        </section>
+      )}
+
+      {entry.answer && (
+        <section className="mb-8">
+          <h2 className="text-sm font-semibold text-neutral-400 uppercase tracking-wide mb-3">
+            답변
+          </h2>
+          <div className="p-4 bg-neutral-900 border border-neutral-800 rounded-lg text-neutral-200 leading-relaxed whitespace-pre-wrap">
+            {entry.answer}
+          </div>
+        </section>
+      )}
+
       {entry.examples && entry.examples.length > 0 && (
         <section className="mb-8">
           <h2 className="text-sm font-semibold text-neutral-400 uppercase tracking-wide mb-3">

@@ -6,6 +6,10 @@ export interface OntologyEntry {
   title: string;
   rule_number?: string;
   description: string;
+  /** 온라인가나다 출처 항목의 사용자 질의 원문 */
+  question?: string;
+  /** 온라인가나다 출처 항목의 답변 원문 */
+  answer?: string;
   examples: Array<{
     correct: string;
     incorrect: string;
